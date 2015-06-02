@@ -6,6 +6,8 @@ Contents:
 .. toctree::
    :caption: About me
    
+   aboutme
+
 .. toctree::
    :caption: Work Experience
 
