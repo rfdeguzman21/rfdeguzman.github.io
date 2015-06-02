@@ -4,15 +4,13 @@ Robin F. De Guzman
 Contents:
 
 .. toctree::
-   :caption: About me
+   :caption: CV
    
    aboutme
+   skills
+   education
 
+   
 .. toctree::
-   :caption: Work Experience
+   :caption: Projects
 
-.. toctree::
-   :caption: Skills
-
-.. toctree::
-   :caption: Education
