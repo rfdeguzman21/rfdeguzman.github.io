@@ -104,7 +104,7 @@ Biometrics
 By May 2013, this project was passed on to a new developer so I can focus on other projects.
 
 - this system accepts a csv-formatted document containing staffs' time entries for a specified cutoff. Afterwards, the system will rectify the time records based on the rules provided by the Personnel team. Lastly, the system will compute for an employee's rendered work hours/minutes
-Personnel team may view the final results either through the web browser or by exporting it to excel
+- Personnel team may view the final results either through the web browser or by exporting it to excel
 - sub modules includes: uploading of employees' schedules, special entries (ie adjustments), 
 and holidays
 - the system will take into consideration these sub-modules and process the work hours accordingly ie. work rendered on a holiday should be treated differently than work rendered on a regular work day
