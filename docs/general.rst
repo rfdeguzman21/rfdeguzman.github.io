@@ -1,6 +1,8 @@
 General
 =======
 
+.. figure:: _static/id.jpg
+
 About me
 --------
 
