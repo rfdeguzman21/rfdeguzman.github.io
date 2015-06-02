@@ -1,5 +1,5 @@
-Project Details
-===============
+Details
+=======
 
 Chatter & ChatterAdmin
 ----------------------
