@@ -39,6 +39,7 @@ Tools & Technologies
 --------------------
 
 - Vagrant
+- AmazonS3
 - Roundcube / Horde
 - Webmin
 - BeyondCompare
