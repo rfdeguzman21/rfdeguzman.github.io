@@ -40,7 +40,7 @@ Operating Systems
 Tools & Technologies
 --------------------
 
-- Vagrant
+- Vagrant / Chef
 - AmazonS3
 - Roundcube / Horde
 - Webmin
@@ -57,6 +57,7 @@ Tools & Technologies
 - CRON
 - RestAPI
 - GruntJS
+- Gulp
 - Bower
 
 Databases
