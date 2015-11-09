@@ -1,6 +1,18 @@
 Details
 =======
 
+Tutor website inbox messaging
+-----------------------------
+
+- Duration: September - November 2015
+- Role-played: Developer
+- Skills used: Yii, Flask/Python, NodeJS, AngularJS, MySQL, MongoDB, Bower, REST
+- This project integrates nodejs to an existing website which enables support to communicate messages and alerts to tutors
+- Messages and alerts are received by tutors on a realtime basis, thanks to nodejs
+- Data is handled via api calls by angularjs apps to an api server developed in flask
+- This inbox project also tracks down offline messages (counter) for tutors and support
+
+
 Chatter & ChatterAdmin
 ----------------------
 
