@@ -4,6 +4,7 @@ Technical Skills
 Programming Languages 
 ---------------------
 
+- Python
 - PHP
 - Ruby
 - Javascript
@@ -11,6 +12,7 @@ Programming Languages
 Frameworks 
 ----------
 
+- Flask
 - Yii
 - CakePHP
 - Rails
@@ -62,4 +64,4 @@ Databases
 
 - MySQL
 - SQLite
-- Mongodb
+- MongoDB
