@@ -44,4 +44,4 @@ latex_elements = {
 
 # The name of an image file (relative to this directory) to place at the top of
 # the title page.
-latex_logo = '../_static/id.jpg'
+latex_logo = './_static/id.jpg'
