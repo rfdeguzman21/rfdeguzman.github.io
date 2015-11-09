@@ -1,8 +1,8 @@
 Details
 =======
 
-Tutor website inbox messaging
------------------------------
+Inbox messaging and alerts for company's main website
+-----------------------------------------------------
 
 - Duration: September - November 2015
 - Role-played: Developer
