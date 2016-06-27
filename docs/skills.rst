@@ -1,7 +1,7 @@
 Technical Skills
 ================
 
-Programming Languages 
+Programming Languages
 ---------------------
 
 - Python
@@ -9,20 +9,22 @@ Programming Languages
 - Ruby
 - Javascript
 
-Frameworks 
+Frameworks
 ----------
 
 - Flask
+- Laravel
 - Yii
+- Codeception
 - CakePHP
 - Rails
 - NodeJS
 - ExpressJS
 - AngularJS
+- React
 - Jquery
 - AJAX
 - Twitter Bootstrap 2.0/3.0
-- Less
 - Sass/SCSS
 - Rails/Haml/ERB/Jade
 

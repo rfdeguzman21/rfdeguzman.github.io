@@ -26,6 +26,7 @@ Personal Information
 - Sex & Status: Male & Single
 - Nationality: Filipino
 - Languages Known: English & Filipino
+- Contact information: rfdeguzman21@gmail.com
 
 
 Previous experiences
