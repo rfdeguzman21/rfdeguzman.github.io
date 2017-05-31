@@ -6,7 +6,6 @@ Programming Languages
 
 - Python
 - PHP
-- Ruby
 - Javascript
 
 Frameworks
@@ -17,7 +16,6 @@ Frameworks
 - Yii
 - Codeception
 - CakePHP
-- Rails
 - NodeJS
 - ExpressJS
 - AngularJS
@@ -26,7 +24,6 @@ Frameworks
 - AJAX
 - Twitter Bootstrap 2.0/3.0
 - Sass/SCSS
-- Rails/Haml/ERB/Jade
 
 Operating Systems
 -----------------
@@ -48,18 +45,15 @@ Tools & Technologies
 - Webmin
 - BeyondCompare
 - GIT / GitHub / BitBucket
-- TortoiseSVN / TortoiseGIT
-- CodeLobster / Netbeans / SublimeText
+- PhpStorm / CodeLobster / Netbeans / SublimeText
 - MySQL Workbench / phpMyAdmin / Adminer
-- SimpLESS
 - XML
 - JSON
 - YAML
 - CSS
 - CRON
-- RestAPI
-- GruntJS
-- Gulp
+- Rest API
+- GruntJS / Gulp
 - Bower
 
 Databases
@@ -68,3 +62,4 @@ Databases
 - MySQL
 - SQLite
 - MongoDB
+- Redis
