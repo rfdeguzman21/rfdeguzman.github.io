@@ -6,7 +6,7 @@ General
 About me
 --------
 
-- A System Engineer graduated from Asian Institute of Computer Studies and having 2years++ of extensive experience in developing company systems for RareJob Phils.
+- A System Engineer graduated from Asian Institute of Computer Studies and having more than 4 years of extensive experience in developing company systems for RareJob Phils.
 - Result driven, self driven, highly motivated, smart and hungry to learn new technologies, methodologies, strategies, and processes
 
 Strengths
@@ -22,11 +22,12 @@ Strengths
 Personal Information
 --------------------
 
+- Mobile: 09165933905
+- Email: rfdeguzman21@gmail.com
 - Date of Birth: February 17, 1978
 - Sex & Status: Male & Single
 - Nationality: Filipino
 - Languages Known: English & Filipino
-- Contact information: rfdeguzman21@gmail.com
 
 
 Previous experiences
