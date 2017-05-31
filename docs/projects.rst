@@ -6,7 +6,7 @@ Inbox messaging and alerts for company's main website
 
 - Duration: September - November 2015
 - Role-played: Developer
-- Skills used: Yii, Flask/Python, NodeJS, AngularJS, MySQL, MongoDB, Bower, REST, Vagrant, Gulp
+- Skills used: Yii, Flask/Python, NodeJS, AngularJS, MySQL, MongoDB, Redis, Bower, REST, Vagrant, Gulp
 - This project integrates nodejs to an existing website which enables support to communicate messages and alerts to tutors
 - Messages and alerts are received by tutors on a realtime basis, thanks to nodejs
 - Data is handled via api calls by angularjs apps to an api server developed in flask
