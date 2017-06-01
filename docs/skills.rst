@@ -44,6 +44,7 @@ Tools & Technologies
 - Roundcube / Horde
 - Webmin
 - BeyondCompare
+- Jenkins
 - GIT / GitHub / BitBucket
 - PhpStorm / CodeLobster / Netbeans / SublimeText
 - MySQL Workbench / phpMyAdmin / Adminer
