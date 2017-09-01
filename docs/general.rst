@@ -8,7 +8,7 @@ About me
 
 - A System Engineer graduated from Asian Institute of Computer Studies and having more than 4 years of extensive experience in developing company systems for RareJob Phils.
 - Result driven, self driven, highly motivated, smart and hungry to learn new technologies, methodologies, strategies, and processes
-- Contact: 09065933905 / rfdeguzman21@gmail.com
+- Contact: 09165933905 / rfdeguzman21@gmail.com
 
 Strengths
 ---------
@@ -23,7 +23,7 @@ Strengths
 Personal Information
 --------------------
 
-- Mobile: 09065933905
+- Mobile: 09165933905
 - Email: rfdeguzman21@gmail.com
 - Date of Birth: February 17, 1978
 - Sex & Status: Male & Married w/ 2 kids
