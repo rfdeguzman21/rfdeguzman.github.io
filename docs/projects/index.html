@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">   
+    <link rel="shortcut icon" href="../img/favicon.ico">
+
+    <title>Projects - Robin F. De Guzman</title>
+
+    <link href="../css/bootstrap-custom.min.css" rel="stylesheet">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/font-hack/2.018/css/hack.min.css">
+    <link href='//fonts.googleapis.com/css?family=PT+Sans:400,400italic,700,700italic&subset=latin-ext,latin' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,600,700&subset=latin-ext,latin' rel='stylesheet' type='text/css'>
+    <link href="../css/base.css" rel="stylesheet">
+    <link href="../css/cinder.css" rel="stylesheet">
+    <link rel="stylesheet" href="../css/highlight.css">
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+        <![endif]-->
+
+    <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.18/webfont.js"></script>
+    <script>
+    WebFont.load({
+        google: {
+            families: ['Open Sans', 'PT Sans']
+        }
+    });
+    </script>
+
+    
+</head>
+
+<body>
+
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+
+        <!-- Collapsed navigation -->
+        <div class="navbar-header">
+            
+            <!-- Expander button -->
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            
+
+            <!-- Main title -->
+            <a class="navbar-brand" href="..">Robin F. De Guzman</a>
+        </div>
+
+        <!-- Expanded navigation -->
+        <div class="navbar-collapse collapse">
+            
+                <!-- Main navigation -->
+                <ul class="nav navbar-nav">
+                
+                
+                    <li >
+                        <a href="..">Home</a>
+                    </li>
+                
+                
+                
+                    <li >
+                        <a href="../skills/">Skills</a>
+                    </li>
+                
+                
+                
+                    <li class="active">
+                        <a href="./">Projects</a>
+                    </li>
+                
+                
+                
+                    <li >
+                        <a href="../education/">Education</a>
+                    </li>
+                
+                
+                </ul>
+            
+
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                        <i class="fa fa-search"></i> Search
+                    </a>
+                </li>
+                
+                    <li >
+                        <a rel="next" href="../skills/">
+                            <i class="fa fa-arrow-left"></i> Previous
+                        </a>
+                    </li>
+                    <li >
+                        <a rel="prev" href="../education/">
+                            Next <i class="fa fa-arrow-right"></i>
+                        </a>
+                    </li>
+                
+                
+            </ul>
+        </div>
+    </div>
+</div>
+
+    <div class="container">
+        
+        <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
+    <ul class="nav bs-sidenav">
+    
+        <li class="first-level active"><a href="#inbox-messaging-and-alerts-for-companys-main-website">Inbox messaging and alerts for company's main website</a></li>
+        
+    
+        <li class="first-level "><a href="#chatter-and-chatteradmin">Chatter and ChatterAdmin</a></li>
+        
+    
+        <li class="first-level "><a href="#chatpage">Chatpage</a></li>
+        
+    
+        <li class="first-level "><a href="#password-change-schedule">Password Change Schedule</a></li>
+        
+    
+        <li class="first-level "><a href="#email-queuing">Email Queuing</a></li>
+        
+    
+        <li class="first-level "><a href="#staff-api">Staff API</a></li>
+        
+    
+        <li class="first-level "><a href="#staff-cms">Staff CMS</a></li>
+        
+    
+        <li class="first-level "><a href="#biometrics">Biometrics</a></li>
+        
+    
+        <li class="first-level "><a href="#jobsworth">Jobsworth</a></li>
+        
+    
+        <li class="first-level "><a href="#web-based-overtime-webot">Web-based Overtime (WebOT)</a></li>
+        
+    
+        <li class="first-level "><a href="#email-cms">Email CMS</a></li>
+        
+    
+        <li class="first-level "><a href="#mass-email">Mass Email</a></li>
+        
+    
+        <li class="first-level "><a href="#post-cms">Post CMS</a></li>
+        
+    
+        <li class="first-level "><a href="#deletioncleanup-of-registrationlogs">Deletion/Cleanup of RegistrationLogs</a></li>
+        
+    
+    </ul>
+</div></div>
+        <div class="col-md-9" role="main">
+
+<h3 id="inbox-messaging-and-alerts-for-companys-main-website">Inbox messaging and alerts for company's main website</h3>
+<p>Duration: September - November 2015<br />
+Role-played: Developer<br />
+Skills used: Yii, Flask/Python, NodeJS, AngularJS, MySQL, MongoDB, Bower, REST, Vagrant, Gulp</p>
+<p>This project integrates nodejs to an existing website which enables support to communicate messages and alerts to tutors</p>
+<ul>
+<li>Messages and alerts are received by tutors on a realtime basis, thanks to nodejs</li>
+<li>Data is handled via api calls by angularjs apps to an api server developed in flask</li>
+<li>This inbox project also tracks down offline messages (counter) for tutors and support</li>
+</ul>
+<h3 id="chatter-and-chatteradmin">Chatter and ChatterAdmin</h3>
+<p>Duration: on-going development / new feature requests<br />
+Role-played: Designer, Developer, and Tester<br />
+Skills used: Yii, RBAC, Vagrant, CentOS, MySQL, AmazonS3, GitHub, AngularJS, Bower</p>
+<p><strong>Chatter</strong></p>
+<ul>
+<li>displays chatter’s profile</li>
+<li>interface to save &amp; submit chatter’s schedules</li>
+<li>displays pdf manuals</li>
+<li>display notifications from admins</li>
+<li>manages attendance</li>
+<li>uses angularjs to manage ajax requests</li>
+</ul>
+<p><strong>ChatterAdmin</strong></p>
+<ul>
+<li>manages chatter profiles</li>
+<li>handles the approval/modifications of schedules submitted by chatters</li>
+<li>uploading of manuals and notifications for chatters</li>
+<li>attendance reports</li>
+<li>manages chatter’s work records</li>
+<li>view chat history</li>
+<li>ticket management (free chat minutes)</li>
+<li>email subscriptions and management (marketing tool)</li>
+</ul>
+<h3 id="chatpage">Chatpage</h3>
+<p>Duration: On-going development / new feature requests<br />
+Role-played: Maintainer / Tester<br />
+Skills used: NodeJS/ExpressJS, AngularJS, Github, Vagrant, CakePHP, GruntJS, Bower</p>
+<p><strong>Frontend</strong></p>
+<ul>
+<li>website used by chatters to communicate via chat with users using IOS app</li>
+</ul>
+<p><strong>Backend</strong></p>
+<ul>
+<li>uses CakePHP &amp; NodeJS server to handle backend services such as database operations, socket connections, and authentication</li>
+</ul>
+<h3 id="password-change-schedule">Password Change Schedule</h3>
+<p>Duration: June 2014<br />
+Role-played: Designer, Developer, and Tester<br />
+Skills used: PHP, Yii, Xampp, Centos, MySQL  </p>
+<p>This component will force users to change their passwords in all Yii systems based on the set schedules<br />
+(every June 30 &amp; December 30)</p>
+<h3 id="email-queuing">Email Queuing</h3>
+<p>Duration: June 2014<br />
+Role-played: Designer, Developer, and Tester<br />
+Skills used: Yii, Xampp, API, Centos, MySQL  </p>
+<p>This component will allow yii-systems to queue their emails and sends them at a later time.  </p>
+<ul>
+<li>this can be used with Email CMS</li>
+<li>allow admins to resend emails with failed status</li>
+<li>has cron job to clear db entries leaving only a month’s worth of data</li>
+</ul>
+<h3 id="staff-api">Staff API</h3>
+<p>Duration: May 2013<br />
+Role-played: Designer, Developer, and Tester<br />
+Skills used: PHP, Yii, RBAC, Xampp, Centos, MySQL  </p>
+<p>This is used to sync staff tables from jp servers to ph servers. This is called via curl in staff cms system.</p>
+<h3 id="staff-cms">Staff CMS</h3>
+<p>Duration: May 2013<br />
+Role-played: Designer, Developer, and Tester<br />
+Skills used: PHP, Yii, RBAC, Xampp, Centos, MySQL  </p>
+<p>CRUD management of staffs ie. team assignments, job positions/promotions, resignations.
+This module provides reset for forgotten passwords.</p>
+<h3 id="biometrics">Biometrics</h3>
+<p>Duration: Sept 2012 - May 2013<br />
+Role-played: Designer, Developer, and Tester<br />
+Skills used: PHP, Yii, RBAC, PHPExcel, Xampp, Centos, MySQL  </p>
+<p>By May 2013, this project was passed on to a new developer so I can focus on other projects.</p>
+<ul>
+<li>this system accepts a csv-formatted document containing staffs' time entries for a specified cutoff. Afterwards, the system will rectify the time records based on the rules provided by the Personnel team. Lastly, the system will compute for an employee's rendered work hours/minutes</li>
+<li>Personnel team may view the final results either through the web browser or by exporting it to excel</li>
+<li>sub modules includes: uploading of employees' schedules, special entries (ie adjustments), 
+and holidays</li>
+<li>the system will take into consideration these sub-modules and process the work hours accordingly ie. work rendered on a holiday should be treated differently than work rendered on a regular work day</li>
+<li>the system also logs errors and actions made by users for tracking purposes (developers/debugging)</li>
+</ul>
+<h3 id="jobsworth">Jobsworth</h3>
+<p>Duration: Report-Bug/Fix cycle<br />
+Role-played: Developer and Tester (Maintenance/Improvements)<br />
+Skills used: Ruby, Rails, CentOS, MySQL  </p>
+<p>This system allows developers to plan and schedule their projects</p>
+<ul>
+<li>it lets the developers know if they're slipping behind and why</li>
+<li>time tracking and extensive reports help clients what the developers have done and for how long.</li>
+</ul>
+<h3 id="web-based-overtime-webot">Web-based Overtime (WebOT)</h3>
+<p>Duration: Sept 2013<br />
+Role-played: Developer &amp; Tester<br />
+Skills used: PHP, Yii, RBAC, Xampp, Centos, MySQL  </p>
+<p>Online interface to allow users to apply for overtime requests</p>
+<ul>
+<li>managers can easily approve/disapprove requests of employees under their respective teams</li>
+<li>this system is integrated with the Biometrics System, thereby considering approved OTs in the computation for rendered work hours</li>
+</ul>
+<h3 id="email-cms">Email CMS</h3>
+<p>Duration: August 2013<br />
+Role-played: Designer, Developer, &amp; Tester<br />
+Skills used: PHP, Yii, Xampp, MySQL  </p>
+<p>This module provides crud management of email templates that is used by other systems</p>
+<ul>
+<li>this allows dynamic changes in email templates without changing codes in the systems</li>
+</ul>
+<h3 id="mass-email">Mass Email</h3>
+<ul>
+<li>Duration: August 2013  </li>
+<li>Role-played: Designer, Developer, &amp; Tester  </li>
+<li>Skills used: PHP, Yii, Xampp, MySQL  </li>
+</ul>
+<p>This module allows the user to send/broadcast an email message to selected recipients</p>
+<h3 id="post-cms">Post CMS</h3>
+<p>Duration: June 2013
+Role-played: Designer &amp; Developer
+Skills used: PHP, Yii, Xampp, MySQL</p>
+<p>This system provides crud management of posts/announcements in the "What's new" section of the company's website</p>
+<ul>
+<li>posts/announcements are shown depending to the type of broadcast: all, certain employees, etc.</li>
+</ul>
+<h3 id="deletioncleanup-of-registrationlogs">Deletion/Cleanup of RegistrationLogs</h3>
+<p>Duration: Sept 2013<br />
+Role-played: Developer<br />
+Skills used: PHP, Yii, Xampp, CRON, MySQL  </p>
+<p>This module is run via cron which deletes all logs, leaving only a month's worth of data in reference to the run/execution date</p></div>
+        
+    </div>
+
+    <footer class="col-md-12 text-center">
+        <hr>
+        <p>
+        <small>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</p></small>
+    </footer>
+
+    <script src="../js/jquery-1.10.2.min.js"></script>
+    <script src="../js/bootstrap-3.0.3.min.js"></script>
+    <script src="../js/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    <script>
+    var base_url = '..';
+    </script>
+    <script data-main="../mkdocs/js/search.js" src="../mkdocs/js/require.js"></script>
+    <script src="../js/base.js"></script>
+
+    <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">
+                        <span aria-hidden="true">&times;</span>
+                        <span class="sr-only">Close</span>
+                    </button>
+                    <h4 class="modal-title" id="exampleModalLabel">Search</h4>
+                </div>
+                <div class="modal-body">
+                    <p>
+                        From here you can search these documents. Enter your search terms below.
+                    </p>
+                    <form role="form">
+                        <div class="form-group">
+                            <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query">
+                        </div>
+                    </form>
+                    <div id="mkdocs-search-results"></div>
+                </div>
+                <div class="modal-footer">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    </body>
+
+</html>
