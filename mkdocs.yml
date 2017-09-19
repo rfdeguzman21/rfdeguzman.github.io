@@ -1,5 +1,7 @@
 site_name: Robin F. De Guzman
-theme_dir: cinder
+theme: united
+copyright: 'Robin F. De Guzman | rfdeguzman21@gmail.com | 09165933905'
+site_author: 'Robin F. De Guzman'
 docs_dir: src
 site_dir: docs
 dev_addr: '0.0.0.0:8000'

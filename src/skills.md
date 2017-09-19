@@ -1,34 +1,41 @@
 ### Programming Languages
 
-| Language   | Framework |
-| ---------- | --------- |
-| Python     | Flask   |
-|            | Django  |
-| PHP        | Laravel |
-|            | Yii     |
-|            | Codeception |
-|            | CakePHP   |
-| Ruby       | Rails     |
-| Javascript | NodeJs    |
-|            | ExpressJs |
-|            | AngualarJs 1.x |
-|            | ReactJs |
-|            | Jquery  |
-| CSS        | Twitter Bootstrap 2.0/3.0 |
-|            | Sass/SCSS |
+> Python  
+  - Flask, Django
+
+> PHP  
+  - Yii, Laravel, Codeception, CakePHP
+
+> Ruby  
+  - Rails
+  
+> CSS  
+  - Twitter Bootstrap 2.0/3.0, Sass, SCSS
+  
+> Javascript  
+  - NodeJs, ExpressJs, AngularJs 1.x, ReactJs, JQuery
+
+### Operating Systems
+
+> Windows XP/7/10  
+  Linux Mint, Ubuntu, ArchLinux, Debian, CentOS  
 
 
-## Tools
+### Databases
 
-| Operating Systems | Tools | Databases |
-| ----------------- | ----- | --------- |
-| Windows XP/7/10   | Vagrant | MySQL |
-| Linux Mint        | AmazonS3 | SQLite |
-| Ubuntu            | Webmin | MongoDB |
-| ArchLinux         | BeyondCompare | |
-| Debian            | Git / Github / BitBucket | |
-| CentOS            | CodeLobster / Netbeans / SublimeText / PhpStorm | |
-|                   | MySQL Workbench / phpMyAdmin / Adminer | |
-|                   | Crontab | |
-|                   | GruntJS / Gulp | |
-|                   | Bower | |
+> MySQL, SQLite, MongoDB
+
+
+
+### Tools
+
+> Vagrant  
+  AmazonS3  
+  Webmin  
+  BeyondCompare  
+  Git / Github / BitBucket  
+  CodeLobster / Netbeans / SublimeText / PhpStorm  
+  MySQL Workbench / phpMyAdmin / Adminer  
+  Crontab  
+  GruntJS / Gulp  
+  Bower  

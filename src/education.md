@@ -1,5 +1,8 @@
-### Education
+### Asian Institute of Computer Studies  
+> Associate Degree in Computer Science
 
-Associate Degree in Computer Science from Asian Institute of Computer Studies  
-E-commerce professional certificate from Genetic Computer Institute  
-HighSchool from St. Elizabeth Seton School  
+### Genetic Computer Institute  
+> E-commerce professional certificate 
+
+### St. Elizabeth Seton School  
+> High school

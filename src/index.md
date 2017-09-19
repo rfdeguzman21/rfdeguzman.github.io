@@ -1,3 +1,5 @@
+![me](img/id.jpg)
+
 ### About me
 
 - A System Engineer graduated from Asian Institute of Computer Studies and having more than 5 years of extensive experience in 

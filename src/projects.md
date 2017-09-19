@@ -1,105 +1,101 @@
-### Inbox messaging and alerts for company's main website
+> ### Inbox messaging and alerts for company's main website
+This project integrates nodejs to an existing website which enables support to
+communicate messages and alerts to tutors
 
-Duration: September - November 2015  
-Role-played: Developer  
-Skills used: Yii, Flask/Python, NodeJS, AngularJS, MySQL, MongoDB, Bower, REST, Vagrant, Gulp
-
-This project integrates nodejs to an existing website which enables support to communicate messages and alerts to tutors
+**Duration**: September - November 2015  
+**Role-played**: Developer  
+**Skills used**: Yii, Flask/Python, NodeJS, AngularJS, MySQL, MongoDB, Bower, REST, Vagrant, Gulp
 
 - Messages and alerts are received by tutors on a realtime basis, thanks to nodejs
 - Data is handled via api calls by angularjs apps to an api server developed in flask
 - This inbox project also tracks down offline messages (counter) for tutors and support
 
 
-### Chatter and ChatterAdmin
+> ### Chatter and ChatterAdmin
+This project manages chatter's account, schedules, and timecard entries. Also handles file
+management using AmazonS3
 
-Duration: on-going development / new feature requests  
-Role-played: Designer, Developer, and Tester  
-Skills used: Yii, RBAC, Vagrant, CentOS, MySQL, AmazonS3, GitHub, AngularJS, Bower
+**Duration**: on-going development / new feature requests  
+**Role-played**: Designer, Developer, and Tester  
+**Skills used**: Yii, RBAC, Vagrant, CentOS, MySQL, AmazonS3, GitHub, AngularJS, Bower
 
-**Chatter**
-
-- displays chatter’s profile
-- interface to save & submit chatter’s schedules
-- displays pdf manuals
-- display notifications from admins
-- manages attendance
-- uses angularjs to manage ajax requests
-
-**ChatterAdmin**
-
-- manages chatter profiles
-- handles the approval/modifications of schedules submitted by chatters
-- uploading of manuals and notifications for chatters
-- attendance reports
-- manages chatter’s work records
-- view chat history
-- ticket management (free chat minutes)
-- email subscriptions and management (marketing tool)
-
-
-### Chatpage
-
-Duration: On-going development / new feature requests  
-Role-played: Maintainer / Tester  
-Skills used: NodeJS/ExpressJS, AngularJS, Github, Vagrant, CakePHP, GruntJS, Bower
-
-**Frontend**
-
-- website used by chatters to communicate via chat with users using IOS app
-
-**Backend**
-
-- uses CakePHP & NodeJS server to handle backend services such as database operations, socket connections, and authentication
+- **Chatter**
+    - displays chatter’s profile
+    - interface to save & submit chatter’s schedules
+    - displays pdf manuals
+    - display notifications from admins
+    - manages attendance
+    - uses angularjs to manage ajax requests
+- **ChatterAdmin**
+    - manages chatter profiles
+    - handles the approval/modifications of schedules submitted by chatters
+    - uploading of manuals and notifications for chatters
+    - attendance reports
+    - manages chatter’s work records
+    - view chat history
+    - ticket management (free chat minutes)
+    - email subscriptions and management (marketing tool)
 
 
-### Password Change Schedule
+> ### Chatpage
+This project allows chatters to chat with their students on IOS app
 
-Duration: June 2014  
-Role-played: Designer, Developer, and Tester  
-Skills used: PHP, Yii, Xampp, Centos, MySQL  
+**Duration**: On-going development / new feature requests  
+**Role-played**: Maintainer / Tester  
+**Skills used**: NodeJS/ExpressJS, AngularJS, Github, Vagrant, CakePHP, GruntJS, Bower
 
+- **Frontend**
+    - website used by chatters to communicate via chat with users using IOS app
+- **Backend**
+    - uses CakePHP & NodeJS server to handle backend services such as database operations, 
+    socket connections, and authentication
+
+
+> ### Password Change Schedule
 This component will force users to change their passwords in all Yii systems based on the set schedules  
 (every June 30 & December 30)
 
+**Duration**: June 2014  
+**Role-played**: Designer, Developer, and Tester  
+**Skills used**: PHP, Yii, Xampp, Centos, MySQL  
 
-### Email Queuing
 
-Duration: June 2014  
-Role-played: Designer, Developer, and Tester  
-Skills used: Yii, Xampp, API, Centos, MySQL  
+> ### Email Queuing
+This component will allow yii-systems to queue their emails and sends them at a later time. Can also
+be used by other frameworks.
 
-This component will allow yii-systems to queue their emails and sends them at a later time.  
+**Duration**: June 2014  
+**Role-played**: Designer, Developer, and Tester  
+**Skills used**: Yii, Xampp, API, Centos, MySQL  
 
 - this can be used with Email CMS
 - allow admins to resend emails with failed status
 - has cron job to clear db entries leaving only a month’s worth of data
 
 
-### Staff API
-
-Duration: May 2013  
-Role-played: Designer, Developer, and Tester  
-Skills used: PHP, Yii, RBAC, Xampp, Centos, MySQL  
-
+> ### Staff API
 This is used to sync staff tables from jp servers to ph servers. This is called via curl in staff cms system.
 
+**Duration**: May 2013  
+**Role-played**: Designer, Developer, and Tester  
+**Skills used**: PHP, Yii, RBAC, Xampp, Centos, MySQL  
 
-### Staff CMS
 
-Duration: May 2013  
-Role-played: Designer, Developer, and Tester  
-Skills used: PHP, Yii, RBAC, Xampp, Centos, MySQL  
-
+> ### Staff CMS
 CRUD management of staffs ie. team assignments, job positions/promotions, resignations.
 This module provides reset for forgotten passwords.
 
+**Duration**: May 2013  
+**Role-played**: Designer, Developer, and Tester  
+**Skills used**: PHP, Yii, RBAC, Xampp, Centos, MySQL  
 
-### Biometrics
 
-Duration: Sept 2012 - May 2013  
-Role-played: Designer, Developer, and Tester  
-Skills used: PHP, Yii, RBAC, PHPExcel, Xampp, Centos, MySQL  
+> ### Biometrics
+Calculates the number of hours an employee rendered on a given range.
+
+**Duration**: Sept 2012 - May 2013  
+**Role-played**: Designer, Developer, and Tester  
+**Skills used**: PHP, Yii, RBAC, PHPExcel, Xampp, Centos, MySQL  
 
 By May 2013, this project was passed on to a new developer so I can focus on other projects.
 
@@ -111,65 +107,59 @@ and holidays
 - the system also logs errors and actions made by users for tracking purposes (developers/debugging)
 
 
-### Jobsworth
+> ### Jobsworth
+This system allows developers to plan and schedule their projects  
+(discontinued as of 2014, in favor of redmine)
 
-Duration: Report-Bug/Fix cycle  
-Role-played: Developer and Tester (Maintenance/Improvements)  
-Skills used: Ruby, Rails, CentOS, MySQL  
+**Duration**: Report-Bug/Fix cycle  
+**Role-played**: Developer and Tester (Maintenance/Improvements)  
+**Skills used**: Ruby, Rails, CentOS, MySQL  
 
-This system allows developers to plan and schedule their projects
-
-- it lets the developers know if they're slipping behind and why
+- lets the developers know if they're slipping behind and why
 - time tracking and extensive reports help clients what the developers have done and for how long.
 
-
-### Web-based Overtime (WebOT)
-
-Duration: Sept 2013  
-Role-played: Developer & Tester  
-Skills used: PHP, Yii, RBAC, Xampp, Centos, MySQL  
-
+> ### Web-based Overtime (WebOT)
 Online interface to allow users to apply for overtime requests
+
+**Duration**: Sept 2013  
+**Role-played**: Developer & Tester  
+**Skills used**: PHP, Yii, RBAC, Xampp, Centos, MySQL  
 
 - managers can easily approve/disapprove requests of employees under their respective teams
 - this system is integrated with the Biometrics System, thereby considering approved OTs in the computation for rendered work hours
 
 
-### Email CMS
-
-Duration: August 2013  
-Role-played: Designer, Developer, & Tester  
-Skills used: PHP, Yii, Xampp, MySQL  
-
+> ### Email CMS
 This module provides crud management of email templates that is used by other systems
 
-- this allows dynamic changes in email templates without changing codes in the systems
+**Duration**: August 2013  
+**Role-played**: Designer, Developer, & Tester  
+**Skills used**: PHP, Yii, Xampp, MySQL  
+
+- allows dynamic changes in email templates without changing codes in the systems
 
 
-### Mass Email
-
-- Duration: August 2013  
-- Role-played: Designer, Developer, & Tester  
-- Skills used: PHP, Yii, Xampp, MySQL  
-
+> ### Mass Email
 This module allows the user to send/broadcast an email message to selected recipients
 
+**Duration**: August 2013  
+**Role-played**: Designer, Developer, & Tester  
+**Skills used**: PHP, Yii, Xampp, MySQL  
 
-### Post CMS
 
-Duration: June 2013
-Role-played: Designer & Developer
-Skills used: PHP, Yii, Xampp, MySQL
+> ### Post CMS
+CRUD management of posts/announcements in the "What's new" section of the company's website
 
-This system provides crud management of posts/announcements in the "What's new" section of the company's website
+**Duration**: June 2013
+**Role-played**: Designer & Developer
+**Skills used**: PHP, Yii, Xampp, MySQL
 
 - posts/announcements are shown depending to the type of broadcast: all, certain employees, etc.
 
 
-### Deletion/Cleanup of RegistrationLogs
-
-Duration: Sept 2013  
-Role-played: Developer  
-Skills used: PHP, Yii, Xampp, CRON, MySQL  
-
+> ### Deletion/Cleanup of RegistrationLogs
 This module is run via cron which deletes all logs, leaving only a month's worth of data in reference to the run/execution date
+
+**Duration**: Sept 2013  
+**Role-played**: Developer  
+**Skills used**: PHP, Yii, Xampp, CRON, MySQL  
