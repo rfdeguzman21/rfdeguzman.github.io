@@ -1,0 +1,7 @@
+site_name: Robin F. De Guzman
+theme: cinder
+pages:
+    - General: about.md
+    - Skills: skills.md
+    - Projects: projects.md
+    - Education: education.md
