@@ -1,0 +1,1 @@
+@"c:\ProgramData\Anaconda2\python.exe" "c:\ProgramData\Anaconda2\Scripts\markdown_py" %*

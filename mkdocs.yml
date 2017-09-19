@@ -1,5 +1,5 @@
 site_name: Robin F. De Guzman
-theme: cinder
+theme: mkdocs
 docs_dir: src
 site_dir: docs
 dev_addr: '0.0.0.0:8000'
