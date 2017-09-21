@@ -19,10 +19,11 @@ developing company systems for RareJob Phils
 ### Personal Information
 
 - Date of Birth: February 17, 1978
-- Sex & Status: Male & Single
+- Sex: Male
+- Status: Married with 2 kids
 - Nationality: Filipino
 - Languages Known: English & Filipino
-- Contact information: rfdeguzman21@gmail.com
+- Contact information: rfdeguzman21@gmail.com / 09165900905
 
 
 ### Previous experiences
