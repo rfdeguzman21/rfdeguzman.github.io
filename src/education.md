@@ -5,4 +5,7 @@
 > E-commerce professional certificate 
 
 ### St. Elizabeth Seton School  
-> High school
+> Secondary school
+
+### Holy Child Catholic School
+> Primary school

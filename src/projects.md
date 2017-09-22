@@ -4,7 +4,7 @@ communicate messages and alerts to tutors
 
 **Duration**: September - November 2015  
 **Role-played**: Developer  
-**Skills used**: Yii, Flask/Python, NodeJS, AngularJS, MySQL, MongoDB, Bower, REST, Vagrant, Gulp
+**Skills used**: `Yii` `Flask/Python` `NodeJS` `AngularJS` `MySQL` `MongoDB` `Redis` `Bower` `REST API` `Vagrant` `Gulp`
 
 - Messages and alerts are received by tutors on a realtime basis, thanks to nodejs
 - Data is handled via api calls by angularjs apps to an api server developed in flask
@@ -17,7 +17,7 @@ management using AmazonS3
 
 **Duration**: on-going development / new feature requests  
 **Role-played**: Designer, Developer, and Tester  
-**Skills used**: Yii, RBAC, Vagrant, CentOS, MySQL, AmazonS3, GitHub, AngularJS, Bower
+**Skills used**: `Yii` `RBAC` `Vagrant` `CentOS` `MySQL` `AmazonS3` `GitHub` `AngularJS` `Bower`
 
 - **Chatter**
     - displays chatter’s profile
@@ -42,12 +42,12 @@ This project allows chatters to chat with their students on IOS app
 
 **Duration**: On-going development / new feature requests  
 **Role-played**: Maintainer / Tester  
-**Skills used**: NodeJS/ExpressJS, AngularJS, Github, Vagrant, CakePHP, GruntJS, Bower
+**Skills used**: `ExpressJS` `AngularJS` `Github` `Vagrant` `CakePHP` `GruntJS` `Bower`
 
 - **Frontend**
     - website used by chatters to communicate via chat with users using IOS app
 - **Backend**
-    - uses CakePHP & NodeJS server to handle backend services such as database operations, 
+    - uses `CakePHP` & `NodeJS` server to handle backend services such as database operations, 
     socket connections, and authentication
 
 
@@ -57,7 +57,7 @@ This component will force users to change their passwords in all Yii systems bas
 
 **Duration**: June 2014  
 **Role-played**: Designer, Developer, and Tester  
-**Skills used**: PHP, Yii, Xampp, Centos, MySQL  
+**Skills used**: `Yii` `Xampp` `Centos` `MySQL`  
 
 
 > ### Email Queuing
@@ -66,7 +66,7 @@ be used by other frameworks.
 
 **Duration**: June 2014  
 **Role-played**: Designer, Developer, and Tester  
-**Skills used**: Yii, Xampp, API, Centos, MySQL  
+**Skills used**: `Yii` `Xampp` `REST API` `Centos` `MySQL`  
 
 - this can be used with Email CMS
 - allow admins to resend emails with failed status
@@ -78,7 +78,7 @@ This is used to sync staff tables from jp servers to ph servers. This is called 
 
 **Duration**: May 2013  
 **Role-played**: Designer, Developer, and Tester  
-**Skills used**: PHP, Yii, RBAC, Xampp, Centos, MySQL  
+**Skills used**: `Yii` `RBAC` `Xampp` `Centos` `MySQL`  
 
 
 > ### Staff CMS
@@ -87,7 +87,7 @@ This module provides reset for forgotten passwords.
 
 **Duration**: May 2013  
 **Role-played**: Designer, Developer, and Tester  
-**Skills used**: PHP, Yii, RBAC, Xampp, Centos, MySQL  
+**Skills used**: `Yii` `RBAC` `Xampp` `Centos` `MySQL`  
 
 
 > ### Biometrics
@@ -95,7 +95,7 @@ Calculates the number of hours an employee rendered on a given range.
 
 **Duration**: Sept 2012 - May 2013  
 **Role-played**: Designer, Developer, and Tester  
-**Skills used**: PHP, Yii, RBAC, PHPExcel, Xampp, Centos, MySQL  
+**Skills used**: `Yii` `RBAC` `PHPExcel` `Xampp` `Centos` `MySQL`  
 
 By May 2013, this project was passed on to a new developer so I can focus on other projects.
 
@@ -113,7 +113,7 @@ This system allows developers to plan and schedule their projects
 
 **Duration**: Report-Bug/Fix cycle  
 **Role-played**: Developer and Tester (Maintenance/Improvements)  
-**Skills used**: Ruby, Rails, CentOS, MySQL  
+**Skills used**: `RubyOnRails` `CentOS` `MySQL`  
 
 - lets the developers know if they're slipping behind and why
 - time tracking and extensive reports help clients what the developers have done and for how long.
@@ -123,7 +123,7 @@ Online interface to allow users to apply for overtime requests
 
 **Duration**: Sept 2013  
 **Role-played**: Developer & Tester  
-**Skills used**: PHP, Yii, RBAC, Xampp, Centos, MySQL  
+**Skills used**: `Yii` `RBAC` `Xampp` `Centos` `MySQL`  
 
 - managers can easily approve/disapprove requests of employees under their respective teams
 - this system is integrated with the Biometrics System, thereby considering approved OTs in the computation for rendered work hours
@@ -134,7 +134,7 @@ This module provides crud management of email templates that is used by other sy
 
 **Duration**: August 2013  
 **Role-played**: Designer, Developer, & Tester  
-**Skills used**: PHP, Yii, Xampp, MySQL  
+**Skills used**: `Yii` `Xampp` `MySQL`  
 
 - allows dynamic changes in email templates without changing codes in the systems
 
@@ -144,7 +144,7 @@ This module allows the user to send/broadcast an email message to selected recip
 
 **Duration**: August 2013  
 **Role-played**: Designer, Developer, & Tester  
-**Skills used**: PHP, Yii, Xampp, MySQL  
+**Skills used**: `Yii` `Xampp` `MySQL`  
 
 
 > ### Post CMS
@@ -152,7 +152,7 @@ CRUD management of posts/announcements in the "What's new" section of the compan
 
 **Duration**: June 2013
 **Role-played**: Designer & Developer
-**Skills used**: PHP, Yii, Xampp, MySQL
+**Skills used**: `Yii` `Xampp` `MySQL`
 
 - posts/announcements are shown depending to the type of broadcast: all, certain employees, etc.
 
@@ -162,4 +162,4 @@ This module is run via cron which deletes all logs, leaving only a month's worth
 
 **Duration**: Sept 2013  
 **Role-played**: Developer  
-**Skills used**: PHP, Yii, Xampp, CRON, MySQL  
+**Skills used**: `Yii` `Xampp` `CRON` `MySQL`  
