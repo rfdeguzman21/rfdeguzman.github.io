@@ -62,7 +62,7 @@
 `Bower`
 
 **Provisioning environments**
-`Vagrant`, `Virtualbox`
+`Vagrant` `Virtualbox`
 
 **Cloud services**
 `AmazonS3`
