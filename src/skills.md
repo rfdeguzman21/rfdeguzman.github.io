@@ -56,7 +56,7 @@
 **Javascript task runners**
 `GruntJS` `Gulp`
 
-**Dependency management**
+**Package managers**
 `Composer`
 `NPM`
 `Bower`
