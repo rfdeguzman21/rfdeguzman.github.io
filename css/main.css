@@ -1,3 +1,7 @@
-li {
-    list-style: none;
+ul {
+    list-style-type: square;
+}
+
+ol {
+    list-style-type: none;
 }
