@@ -2,6 +2,10 @@
 source env/Scripts/activate
 mkdocs serve
 
+# Deploy changes to github
+source env/Scripts/activate
+mkdocs gh-deploy
+
 # Convert to PDF
 source env/Scripts/activate
 node topdf --src robin-deguzman.md
