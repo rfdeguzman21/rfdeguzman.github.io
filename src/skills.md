@@ -19,6 +19,14 @@
 `ReactJs`
 `JQuery`
 
+### Methodologies
+`Test Driven Design` `Behavioral Driven Design` `SOLID principle` `Domain Driven Design`
+`PHP Design Patterns` 
+
+
+### Testing Frameworks
+`Codeception` `PhpUnit` `pytest` `unittest` `mocha`
+`phantomjs` `Selenium`
 
 ### Operating Systems
 `Windows XP/7/10`

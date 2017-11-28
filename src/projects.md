@@ -1,17 +1,37 @@
-> ### Inbox messaging and alerts for company's main website
+### Tutor website
+
+This project help tutors to manage their schedules, conduct their lessons,
+and receive important announcements and information
+
+**Duration**: September 2012 - Present  
+**Roles played**: Developer, Project Lead, Tester  
+**Skills used**: `Yii` `Flask` `NodeJs` `AngularJS` `MySQL` `Redis`
+`MongoDb` `REST API` `Vagrant` `Gulp` `Codeception`
+
+- Continuous development of new features and/or change requests depending 
+on the need of the company
+- Fix bugs encountered/reported by staffs, tutors, or students
+
+---
+
+### Inbox messaging and alerts for company's main website
+
 This project integrates nodejs to an existing website which enables support to
 communicate messages and alerts to tutors
 
 **Duration**: September - November 2015  
 **Role-played**: Developer  
-**Skills used**: `Yii` `Flask/Python` `NodeJS` `AngularJS` `MySQL` `MongoDB` `Redis` `Bower` `REST API` `Vagrant` `Gulp`
+**Skills used**: `Yii` `Flask/Python` `NodeJS` `AngularJS` `MySQL` `MongoDB` `Redis` 
+`Bower` `REST API` `Vagrant` `Gulp`
 
 - Messages and alerts are received by tutors on a realtime basis, thanks to nodejs
 - Data is handled via api calls by angularjs apps to an api server developed in flask
 - This inbox project also tracks down offline messages (counter) for tutors and support
 
+---
 
-> ### Chatter and ChatterAdmin
+### Chatter and ChatterAdmin
+
 This project manages chatter's account, schedules, and timecard entries. Also handles file
 management using AmazonS3
 
@@ -26,6 +46,7 @@ management using AmazonS3
     - display notifications from admins
     - manages attendance
     - uses angularjs to manage ajax requests
+
 - **ChatterAdmin**
     - manages chatter profiles
     - handles the approval/modifications of schedules submitted by chatters
@@ -36,8 +57,10 @@ management using AmazonS3
     - ticket management (free chat minutes)
     - email subscriptions and management (marketing tool)
 
+---
 
-> ### Chatpage
+### Chatpage
+
 This project allows chatters to chat with their students on IOS app
 
 **Duration**: On-going development / new feature requests  
@@ -46,12 +69,15 @@ This project allows chatters to chat with their students on IOS app
 
 - **Frontend**
     - website used by chatters to communicate via chat with users using IOS app
+
 - **Backend**
     - uses `CakePHP` & `NodeJS` server to handle backend services such as database operations, 
     socket connections, and authentication
 
+---
 
-> ### Password Change Schedule
+### Password Change Schedule
+
 This component will force users to change their passwords in all Yii systems based on the set schedules  
 (every June 30 & December 30)
 
@@ -59,8 +85,9 @@ This component will force users to change their passwords in all Yii systems bas
 **Role-played**: Designer, Developer, and Tester  
 **Skills used**: `Yii` `Xampp` `Centos` `MySQL`  
 
+---
 
-> ### Email Queuing
+### Email Queuing
 This component will allow yii-systems to queue their emails and sends them at a later time. Can also
 be used by other frameworks.
 
@@ -72,16 +99,18 @@ be used by other frameworks.
 - allow admins to resend emails with failed status
 - has cron job to clear db entries leaving only a month’s worth of data
 
+---
 
-> ### Staff API
+### Staff API
 This is used to sync staff tables from jp servers to ph servers. This is called via curl in staff cms system.
 
 **Duration**: May 2013  
 **Role-played**: Designer, Developer, and Tester  
 **Skills used**: `Yii` `RBAC` `Xampp` `Centos` `MySQL`  
 
+---
 
-> ### Staff CMS
+### Staff CMS
 CRUD management of staffs ie. team assignments, job positions/promotions, resignations.
 This module provides reset for forgotten passwords.
 
@@ -89,8 +118,9 @@ This module provides reset for forgotten passwords.
 **Role-played**: Designer, Developer, and Tester  
 **Skills used**: `Yii` `RBAC` `Xampp` `Centos` `MySQL`  
 
+---
 
-> ### Biometrics
+### Biometrics
 Calculates the number of hours an employee rendered on a given range.
 
 **Duration**: Sept 2012 - May 2013  
@@ -106,8 +136,10 @@ and holidays
 - the system will take into consideration these sub-modules and process the work hours accordingly ie. work rendered on a holiday should be treated differently than work rendered on a regular work day
 - the system also logs errors and actions made by users for tracking purposes (developers/debugging)
 
+---
 
-> ### Jobsworth
+### Jobsworth
+
 This system allows developers to plan and schedule their projects  
 (discontinued as of 2014, in favor of redmine)
 
@@ -118,7 +150,10 @@ This system allows developers to plan and schedule their projects
 - lets the developers know if they're slipping behind and why
 - time tracking and extensive reports help clients what the developers have done and for how long.
 
-> ### Web-based Overtime (WebOT)
+---
+
+### Web-based Overtime (WebOT)
+
 Online interface to allow users to apply for overtime requests
 
 **Duration**: Sept 2013  
@@ -128,8 +163,10 @@ Online interface to allow users to apply for overtime requests
 - managers can easily approve/disapprove requests of employees under their respective teams
 - this system is integrated with the Biometrics System, thereby considering approved OTs in the computation for rendered work hours
 
+---
 
-> ### Email CMS
+### Email CMS
+
 This module provides crud management of email templates that is used by other systems
 
 **Duration**: August 2013  
@@ -138,16 +175,20 @@ This module provides crud management of email templates that is used by other sy
 
 - allows dynamic changes in email templates without changing codes in the systems
 
+---
 
-> ### Mass Email
+### Mass Email
+
 This module allows the user to send/broadcast an email message to selected recipients
 
 **Duration**: August 2013  
 **Role-played**: Designer, Developer, & Tester  
 **Skills used**: `Yii` `Xampp` `MySQL`  
 
+---
 
-> ### Post CMS
+### Post CMS
+
 CRUD management of posts/announcements in the "What's new" section of the company's website
 
 **Duration**: June 2013
@@ -156,8 +197,10 @@ CRUD management of posts/announcements in the "What's new" section of the compan
 
 - posts/announcements are shown depending to the type of broadcast: all, certain employees, etc.
 
+---
 
-> ### Deletion/Cleanup of RegistrationLogs
+### Deletion/Cleanup of RegistrationLogs
+
 This module is run via cron which deletes all logs, leaving only a month's worth of data in reference to the run/execution date
 
 **Duration**: Sept 2013  

@@ -1,7 +1,9 @@
-### Start dev server
+# Start dev server
 source env/Scripts/activate
-mkdocs server
+mkdocs serve
 
-### Convert to PDF
+# Convert to PDF
 source env/Scripts/activate
 node topdf --src robin-deguzman.md
+
+
