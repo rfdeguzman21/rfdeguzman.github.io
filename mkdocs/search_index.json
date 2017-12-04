@@ -27,22 +27,22 @@
         }, 
         {
             "location": "/skills/", 
-            "text": "Programming Languages\n\n\nPython\n\n\nFlask\n \nDjango\n \nCelery\n\n\nPHP\n\n\nYii\n \nLaravel\n \nCodeception\n \nCakePHP\n\n\nRuby\n\n\nRails\n\n\nCSS\n\n\nTwitter Bootstrap 2.0/3.0\n \nSass\n \nSCSS\n\n\nJavascript\n\n\nNodeJs\n\n\nExpressJs\n\n\nAngularJs 1.x\n\n\nReactJs\n\n\nJQuery\n\n\nMethodologies\n\n\nTest Driven Design\n \nBehavioral Driven Design\n \nSOLID principle\n \nDomain Driven Design\n\n\nPHP Design Patterns\n \n\n\nTesting Frameworks\n\n\nCodeception\n \nPhpUnit\n \npytest\n \nunittest\n \nmocha\n\n\nphantomjs\n \nSelenium\n\n\nOperating Systems\n\n\nWindows XP/7/10\n\n\nLinux Mint\n\n\nUbuntu\n\n\nArchLinux\n\n\nDebian\n\n\nCentOS\n \n\n\nDatabases\n\n\nMySQL 5\n \nSQLite\n \nMongoDB\n \nRedis\n\n\nTools\n\n\nMySQL Admin UI's\n\n\nMySQL Workbench\n \nphpMyAdmin\n \nAdminer\n\n\nJavascript task runners\n\n\nGruntJS\n \nGulp\n\n\nAutomated Deployers\n\n\nJenkins\n \ncapistrano\n\n\nVersion control systems\n\n\nGit\n \nGithub\n \nBitBucket\n\n\nPHP IDE's\n\n\nCodeLobster\n \nNetbeans\n \nPhpStorm\n\n\nMySQL Admin\n\n\nMySQL Workbench\n \nphpMyAdmin\n \nAdminer\n\n\nJavascript task runners\n\n\nGruntJS\n \nGulp\n\n\nPackage managers\n\n\nComposer\n\n\nNPM\n\n\nBower\n\n\nProvisioning environments\n\n\nVagrant\n \nVirtualbox\n\n\nCloud services\n\n\nAmazonS3\n\n\nOthers\n\n\nREST API\n\n\nCrontab\n\n\nWebmin\n\n\nBeyondCompare\n\n\nSublimeText\n\n\nNotepad++", 
+            "text": "Programming Languages\n\n\nPython\n\n\n\n\nFlask\n \n\n\nDjango\n \n\n\nCelery\n\n\n\n\nPHP\n\n\n\n\nYii\n \n\n\nLaravel\n \n\n\nCodeception\n \n\n\nCakePHP\n\n\n\n\nRuby\n\n\n\n\nRails\n\n\n\n\nCSS\n\n\n\n\nTwitter Bootstrap 2.0/3.0\n \n\n\nSass\n \n\n\nSCSS\n\n\n\n\nJavascript\n\n\n\n\nNodeJs\n\n\nExpressJs\n\n\nAngularJs 1.x\n\n\nReactJs\n\n\nJQuery\n\n\n\n\nMethodologies\n\n\n\n\nTest Driven Design\n\n\nBehavioral Driven Design\n \n\n\nSOLID principle\n \n\n\nDomain Driven Design\n\n\nPHP Design Patterns\n \n\n\n\n\nTesting Frameworks\n\n\n\n\nCodeception\n \n\n\nPhpUnit\n \n\n\npytest\n \n\n\nunittest\n \n\n\nmocha\n\n\nphantomjs\n \n\n\nSelenium\n\n\n\n\nOperating Systems\n\n\n\n\nWindows XP/7/10\n\n\nLinux Mint\n\n\nUbuntu\n\n\nArchLinux\n\n\nDebian\n\n\nCentOS\n \n\n\n\n\nDatabases\n\n\n\n\nMySQL 5\n \n\n\nSQLite\n \n\n\nMongoDB\n \n\n\nRedis\n\n\n\n\nTools\n\n\nMySQL Admin UI's\n\n\n\n\nMySQL Workbench\n \n\n\nphpMyAdmin\n \n\n\nAdminer\n\n\n\n\nJavascript task runners\n\n\n\n\nGruntJS\n \n\n\nGulp\n\n\n\n\nAutomated Deployers\n\n\n\n\nJenkins\n \n\n\ncapistrano\n\n\n\n\nVersion control systems\n\n\n\n\nGit\n \n\n\nGithub\n \n\n\nBitBucket\n\n\n\n\nPHP IDE's\n\n\n\n\nCodeLobster\n \n\n\nNetbeans\n \n\n\nPhpStorm\n\n\n\n\nMySQL Admin\n\n\n\n\nMySQL Workbench\n \n\n\nphpMyAdmin\n \n\n\nAdminer\n\n\n\n\nPackage managers\n\n\n\n\ncomposer\n\n\nnpm\n\n\nbower\n\n\n\n\nProvisioning environments\n\n\n\n\nVagrant\n \n\n\nVirtualbox\n\n\n\n\nCloud services\n\n\n\n\nAmazonS3\n\n\n\n\nOthers\n\n\n\n\nREST API\n\n\nCrontab\n\n\nWebmin\n\n\nBeyondCompare\n\n\nSublimeText\n\n\nNotepad++", 
             "title": "Skills"
         }, 
         {
             "location": "/skills/#programming-languages", 
-            "text": "Python  Flask   Django   Celery  PHP  Yii   Laravel   Codeception   CakePHP  Ruby  Rails  CSS  Twitter Bootstrap 2.0/3.0   Sass   SCSS  Javascript  NodeJs  ExpressJs  AngularJs 1.x  ReactJs  JQuery", 
+            "text": "Python   Flask    Django    Celery   PHP   Yii    Laravel    Codeception    CakePHP   Ruby   Rails   CSS   Twitter Bootstrap 2.0/3.0    Sass    SCSS   Javascript   NodeJs  ExpressJs  AngularJs 1.x  ReactJs  JQuery", 
             "title": "Programming Languages"
         }, 
         {
             "location": "/skills/#methodologies", 
-            "text": "Test Driven Design   Behavioral Driven Design   SOLID principle   Domain Driven Design  PHP Design Patterns", 
+            "text": "Test Driven Design  Behavioral Driven Design    SOLID principle    Domain Driven Design  PHP Design Patterns", 
             "title": "Methodologies"
         }, 
         {
             "location": "/skills/#testing-frameworks", 
-            "text": "Codeception   PhpUnit   pytest   unittest   mocha  phantomjs   Selenium", 
+            "text": "Codeception    PhpUnit    pytest    unittest    mocha  phantomjs    Selenium", 
             "title": "Testing Frameworks"
         }, 
         {
@@ -52,12 +52,12 @@
         }, 
         {
             "location": "/skills/#databases", 
-            "text": "MySQL 5   SQLite   MongoDB   Redis", 
+            "text": "MySQL 5    SQLite    MongoDB    Redis", 
             "title": "Databases"
         }, 
         {
             "location": "/skills/#tools", 
-            "text": "MySQL Admin UI's  MySQL Workbench   phpMyAdmin   Adminer  Javascript task runners  GruntJS   Gulp  Automated Deployers  Jenkins   capistrano  Version control systems  Git   Github   BitBucket  PHP IDE's  CodeLobster   Netbeans   PhpStorm  MySQL Admin  MySQL Workbench   phpMyAdmin   Adminer  Javascript task runners  GruntJS   Gulp  Package managers  Composer  NPM  Bower  Provisioning environments  Vagrant   Virtualbox  Cloud services  AmazonS3  Others  REST API  Crontab  Webmin  BeyondCompare  SublimeText  Notepad++", 
+            "text": "MySQL Admin UI's   MySQL Workbench    phpMyAdmin    Adminer   Javascript task runners   GruntJS    Gulp   Automated Deployers   Jenkins    capistrano   Version control systems   Git    Github    BitBucket   PHP IDE's   CodeLobster    Netbeans    PhpStorm   MySQL Admin   MySQL Workbench    phpMyAdmin    Adminer   Package managers   composer  npm  bower   Provisioning environments   Vagrant    Virtualbox   Cloud services   AmazonS3   Others   REST API  Crontab  Webmin  BeyondCompare  SublimeText  Notepad++", 
             "title": "Tools"
         }, 
         {
