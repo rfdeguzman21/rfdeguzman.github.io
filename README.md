@@ -8,6 +8,6 @@ mkdocs gh-deploy
 
 # Convert to PDF
 source env/Scripts/activate
-node topdf --src robin-deguzman.md
+node topdf.node.js --src robin-deguzman.md
 
 
