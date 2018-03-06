@@ -7,10 +7,15 @@ livereload==2.5.1
 Markdown==2.6.9
 markdown-include==0.5.1
 MarkupSafe==1.0
-mkdocs==0.16.3
+mkdocs==0.17.2
 mkdocs-bootswatch==0.4.0
 mkdocs-cinder==0.9.4
+mkdocs-material==2.6.6
 mkdocs-pandoc==0.2.6
+pandoc==1.0.0b2
+ply==3.10
+Pygments==2.2.0
+pymdown-extensions==4.9
 PyYAML==3.12
 singledispatch==3.4.0.3
 six==1.11.0

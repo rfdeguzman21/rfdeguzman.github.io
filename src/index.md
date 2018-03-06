@@ -1,13 +1,13 @@
 ![me](img/id-sm.jpg)
 
-### About me
+## About me
 
-- A System Engineer graduated from Asian Institute of Computer Studies and having more than 5 years of extensive experience in 
-developing company systems for RareJob Phils
-- Systems Engineer in RareJob Phils since Sept. 2012
+- Graduated from Asian Institute of Computer Studies and having more than 5 years of extensive experience in 
+developing company systems for RareJob Philippines Inc.
+- Senior Developer in RareJob Phils since Sept. 2012
 - Result driven, self driven, highly motivated, smart and hungry to learn new technologies, methodologies, strategies, and processes
 
-### Strengths
+## Strengths
 
 - Good oral, written, & presentation skills
 - A high tolerance for stress and enjoys responsibilities
@@ -16,7 +16,7 @@ developing company systems for RareJob Phils
 - Lead & work as a team in an organized way
 - Great time management skill
 
-### Personal Information
+## Personal Information
 
 - Date of Birth: February 17, 1978
 - Sex: Male
@@ -26,6 +26,6 @@ developing company systems for RareJob Phils
 - Contact information: rfdeguzman21@gmail.com | 09165900905
 
 
-### Previous experiences
+## Previous experiences
 
 - Technical Support Representative/Professional from Sykes, HP, Dell, & StarTek

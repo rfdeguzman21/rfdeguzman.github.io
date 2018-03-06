@@ -1,11 +1,11 @@
 ### Asian Institute of Computer Studies  
-- Associate Degree in Computer Science
+> Associate Degree in Computer Science
 
 ### Genetic Computer Institute  
-- E-commerce professional certificate 
+> E-commerce professional certificate 
 
 ### St. Elizabeth Seton School  
-- Secondary school
+> Secondary school
 
 ### Holy Child Catholic School
-- Primary school
+> Primary school

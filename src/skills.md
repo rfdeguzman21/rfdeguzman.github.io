@@ -1,129 +1,73 @@
-### Programming Languages
+## Programming Languages
 
-**Python**
+Python
+> Flask / Django / Celery
 
-- `Flask` 
-- `Django` 
-- `Celery`
 
-**PHP**
+PHP
+> Yii / Laravel / Codeception / CakePHP
 
-- `Yii` 
-- `Laravel` 
-- `Codeception` 
-- `CakePHP`
+Golang
 
-**Ruby**
-
-- `Rails`
+CSS
+> Twitter Bootstrap 3.0 / Sass / SCSS
   
-**CSS**
-
-- `Twitter Bootstrap 2.0/3.0` 
-- `Sass` 
-- `SCSS`
-  
-**Javascript**
-
-- `NodeJs`
-- `ExpressJs`
-- `AngularJs 1.x`
-- `ReactJs`
-- `JQuery`
-
-### Methodologies
-
-- `Test Driven Design`
-- `Behavioral Driven Design` 
-- `SOLID principle` 
-- `Domain Driven Design`
-- `PHP Design Patterns` 
+Javascript
+> NodeJs / ExpressJs / AngularJs 1.x / ReactJs / JQuery
 
 
-### Testing Frameworks
-
-- `Codeception` 
-- `PhpUnit` 
-- `pytest` 
-- `unittest` 
-- `mocha`
-- `phantomjs` 
-- `Selenium`
-
-### Operating Systems
-
-- `Windows XP/7/10`
-- `Linux Mint`
-- `Ubuntu`
-- `ArchLinux`
-- `Debian`
-- `CentOS` 
+## Methodologies
+> Test Driven Design / Behavioral Driven Design / SOLID principle / Domain Driven Design / PHP Design Patterns 
 
 
-### Databases
+## Testing Frameworks
 
-- `MySQL 5` 
-- `SQLite` 
-- `MongoDB` 
-- `Redis`
+PHP
+> Codeception / PhpUnit / phantomjs / Selenium
+
+Python
+> pytest / unittest 
+
+Javascript
+> mocha 
 
 
-### Tools
+## Operating Systems
+> Linux Mint / Ubuntu / ArchLinux / Debian / CentOS 
 
-**MySQL Admin UI's**
 
-- `MySQL Workbench` 
-- `phpMyAdmin` 
-- `Adminer`
+## Databases
+> MySQL 5  / SQLite  / MongoDB  / Redis
 
-**Javascript task runners**
 
-- `GruntJS` 
-- `Gulp`
+## Tools
 
-**Automated Deployers**
+MySQL Admin UI's
+> MySQL Workbench  / phpMyAdmin  / Adminer / ToadForMySQL
 
-- `Jenkins` 
-- `capistrano`
+Javascript task runners
+> GruntJS  / Gulp
 
-**Version control systems**
+Automated Deployers
+> Jenkins  / capistrano
 
-- `Git` 
-- `Github` 
-- `BitBucket`
+Version control systems
+> Git  / Github  / BitBucket
 
-**PHP IDE's**
+PHP IDE's
+> CodeLobster  / Netbeans  / PhpStorm / PyCharm
 
-- `CodeLobster` 
-- `Netbeans` 
-- `PhpStorm`
+MySQL Admin
+> MySQL Workbench  / phpMyAdmin  / Adminer
 
-**MySQL Admin**
+Package managers
+> composer / npm / bower
 
-- `MySQL Workbench` 
-- `phpMyAdmin` 
-- `Adminer`
+Provisioning environments
+> Vagrant  / Virtualbox
 
-**Package managers**
+Cloud services
+> AmazonS3
 
-- `composer`
-- `npm`
-- `bower`
-
-**Provisioning environments**
-
-- `Vagrant` 
-- `Virtualbox`
-
-**Cloud services**
-
-- `AmazonS3`
-
-**Others**
-
-- `REST API`
-- `Crontab`
-- `Webmin`
-- `BeyondCompare`
-- `SublimeText`
-- `Notepad++`
+Others
+> REST API / Crontab / Webmin / BeyondCompare / SublimeText / Notepad++
