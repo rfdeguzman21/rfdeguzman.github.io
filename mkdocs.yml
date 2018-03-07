@@ -1,6 +1,6 @@
 site_name: Robin F. De Guzman
 
-theme: 
+theme:
   name: material
   language: en
   palette:
@@ -29,6 +29,10 @@ pages:
     - Skills: skills.md
     - Projects: projects.md
     - Education: education.md
+
+google_analytics:
+    - 'UA-115313253-1'
+    - auto
 
 markdown_extensions:
   - pymdownx.tilde
