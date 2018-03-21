@@ -7,11 +7,11 @@ and receive important announcements and information
 **Various roles played** Project Lead, Developer, Code reviewer  
 **Skills used** Yii, Flask, NodeJs, AngularJS, MySQL, Redis, MongoDb, REST API, Vagrant, Gulp, Codeception
 
-- Continuous development of new features and/or change requests depending 
+- Continuous development of new features and/or change requests depending
 on the needs of the company
 - Fix bugs encountered/reported by staffs, tutors, or students
 
----
+
 
 ## Inbox messaging and alerts for company's main website
 
@@ -20,14 +20,14 @@ communicate messages and alerts to tutors
 
 **Duration** September - November 2015  
 **Role-played** Developer  
-**Skills used** Yii, Flask/Python, NodeJS, AngularJS, MySQL, MongoDB, Redis 
+**Skills used** Yii, Flask/Python, NodeJS, AngularJS, MySQL, MongoDB, Redis
 Bower, REST API, Vagrant, Gulp
 
 - Messages and alerts are received by tutors on a realtime basis, thanks to nodejs
 - Data is handled via api calls by angularjs apps to an api server developed in flask
 - Keeps track of unread messages (counter) for tutors and support
 
----
+
 
 ## Chatter and ChatterAdmin
 
@@ -58,7 +58,7 @@ management using AmazonS3
 - ticket management (free chat minutes)
 - email subscriptions and management (marketing tool)
 
----
+
 
 ## Chatpage
 
@@ -76,7 +76,7 @@ management using AmazonS3
 
 - uses CakePHP & NodeJS server to handle backend services such as database operations, socket connections, and authentication
 
----
+
 
 ## Password Change Schedule
 
@@ -87,11 +87,11 @@ management using AmazonS3
 **Role-played** Designer, Developer, and Tester  
 **Skills used** Yii, Xampp, Centos, MySQL  
 
----
+
 
 ## Email Queuing
 
-> This component will allow yii-systems to queue their emails and send them at a later time. Can also 
+> This component will allow yii-systems to queue their emails and send them at a later time. Can also
   be used by other frameworks.
 
 **Duration** June 2014  
@@ -102,7 +102,7 @@ management using AmazonS3
 - Allow admins to resend emails with failed status
 - Cron job clears db entries leaving only a month’s worth of data
 
----
+
 
 ## Staff API
 
@@ -112,7 +112,7 @@ management using AmazonS3
 **Role-played** Designer, Developer, and Tester  
 **Skills used** Yii, RBAC, Xampp, Centos, MySQL  
 
----
+
 
 ## Staff CMS
 
@@ -123,7 +123,7 @@ This module provides reset for forgotten passwords.
 **Role-played** Designer, Developer, and Tester  
 **Skills used** Yii, RBAC, Xampp, Centos, MySQL  
 
----
+
 
 ## Biometrics
 
@@ -137,12 +137,12 @@ By May 2013, this project was passed on to a new developer so I can focus on oth
 
 - this system accepts a csv-formatted document containing staffs' time entries for a specified cutoff. Afterwards, the system will rectify the time records based on the rules provided by the Personnel team. Lastly, the system will compute for an employee's rendered work hours/minutes
 - Personnel team may view the final results either through the web browser or by exporting it to excel
-- sub modules includes uploading of employees' schedules, special entries (ie adjustments), 
+- sub modules includes uploading of employees' schedules, special entries (ie adjustments),
 and holidays
 - the system will take into consideration these sub-modules and process the work hours accordingly ie. work rendered on a holiday should be treated differently than work rendered on a regular work day
 - the system also logs errors and actions made by users for tracking purposes (developers/debugging)
 
----
+
 
 ## Jobsworth
 
@@ -156,7 +156,7 @@ and holidays
 - lets the developers know if they're slipping behind and why
 - time tracking and extensive reports help clients what the developers have done and for how long.
 
----
+
 
 ## Web-based Overtime (WebOT)
 
@@ -169,7 +169,7 @@ and holidays
 - managers can easily approve/disapprove requests of employees under their respective teams
 - this system is integrated with the Biometrics System, thereby considering approved OTs in the computation for rendered work hours
 
----
+
 
 ## Email CMS
 
@@ -181,7 +181,7 @@ and holidays
 
 - allows dynamic changes in email templates without changing codes in the systems
 
----
+
 
 ## Mass Email
 
@@ -191,7 +191,7 @@ and holidays
 **Role-played** Designer, Developer, & Tester  
 **Skills used** Yii, Xampp, MySQL  
 
----
+
 
 ## Post CMS
 
@@ -203,7 +203,7 @@ and holidays
 
 - posts/announcements are shown depending to the type of broadcast: all, certain employees, etc.
 
----
+
 
 ## Deletion/Cleanup of RegistrationLogs
 
