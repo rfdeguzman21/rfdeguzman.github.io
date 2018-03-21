@@ -1,7 +1,21 @@
-ul {
-    list-style-type: square;
+div[role=main] ul {
+    list-style-type: none;
+    padding-left: 0;
 }
 
-ol {
+div[role=main] ol {
     list-style-type: none;
+}
+
+div[role=main] li {
+    padding-left: 1.2em;
+}
+
+div[role=main] li:before {
+  content: "»";
+  padding-right: 5px;
+}
+
+h1,h2,h3 {
+    border-bottom: 1px solid #ddd
 }
