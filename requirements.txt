@@ -9,7 +9,7 @@ markdown-include==0.5.1
 MarkupSafe==1.0
 mkdocs==0.17.2
 mkdocs-bootswatch==0.4.0
-mkdocs-cinder==0.9.4
+mkdocs-cinder==0.11.0
 mkdocs-material==2.6.6
 mkdocs-pandoc==0.2.6
 pandoc==1.0.0b2
