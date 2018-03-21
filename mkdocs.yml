@@ -2,13 +2,6 @@ site_name: Robin F. De Guzman
 
 theme: cinder
 
-# theme:
-#   name: material
-#   language: en
-#   palette:
-#     primary: 'Deep purple'
-#     accent: 'Deep purple'
-
 copyright: 'Robin F. De Guzman | rfdeguzman21@gmail.com | 09165933905'
 
 site_author: 'Robin F. De Guzman'
@@ -26,13 +19,8 @@ remote_branch: master
 
 copyright: 'Copyright &copy; 2018 - 2019 Robin F. De Guzman'
 
-# pages:
-#     - Home: index.md
-# pages:
-#     - Home: index.md
-#     - Skills: skills.md
-#     - Projects: projects.md
-#     - Education: education.md
+pages:
+    - Home: index.md
 
 google_analytics:
     - 'UA-115313253-1'
