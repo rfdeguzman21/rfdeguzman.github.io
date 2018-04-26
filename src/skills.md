@@ -30,7 +30,6 @@ Javascript
 - NodeJs
 - ExpressJs
 - AngularJs 1.x
-- ReactJs
 - JQuery
 
 
@@ -133,8 +132,8 @@ Cloud services
 Others
 
 - REST API
-- Crontab 
-- Webmin 
-- BeyondCompare 
-- SublimeText 
+- Crontab
+- Webmin
+- BeyondCompare
+- SublimeText
 - Notepad++
