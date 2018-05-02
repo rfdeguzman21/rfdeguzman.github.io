@@ -1,4 +1,6 @@
-![me](img/id-sm.jpg)
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="light" data-vanity="robin-de-guzman-56b65114b"><a class="LI-simple-link" href='https://ph.linkedin.com/in/robin-de-guzman-56b65114b?trk=profile-badge'>Robin De Guzman</a></div>
 
 ### About me
 
@@ -23,7 +25,10 @@ developing company systems for RareJob Philippines Inc.
 - Status: Married with 2 kids
 - Nationality: Filipino
 - Languages Known: English & Filipino
-- Contact information: rfdeguzman21@gmail.com | 09165933905
+- Contact information
+    - rfdeguzman21@gmail.com
+    - (+63) 9165933905
+    - <https://www.linkedin.com/in/robindeguzman8>
 
 ### Previous experiences
 
