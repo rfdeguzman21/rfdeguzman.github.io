@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "command-line-args": "^4.0.7",
-    "markdown-pdf": "^8.0.0"
-  }
-}

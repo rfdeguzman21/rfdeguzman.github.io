@@ -1,8 +1,9 @@
 site_name: Robin F. De Guzman
 
-theme: windmill
+theme: 
+    name: material
 
-copyright: 'Robin F. De Guzman | rfdeguzman21@gmail.com | 09165933905'
+copyright: 'Robin F. De Guzman | rfdeguzman21@gmail.com | 0916 593 3905'
 
 site_author: 'Robin F. De Guzman'
 
@@ -15,9 +16,11 @@ extra_css:
 
 pages:
     - Home: index.md
+    - Experience: experiences.md
     - Skills: skills.md
     - Projects: projects.md
     - Education: education.md
+    - Download resume: downloads/robindeguzman_resume.docx
 
 dev_addr: '0.0.0.0:8000'
 
