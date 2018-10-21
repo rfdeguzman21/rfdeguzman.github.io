@@ -1,8 +1,12 @@
 
-### Senior Software Engineer (since July 2018)
+# Deltek
 
-### Senior Developer in RareJob Phils (September 2012 to July 2018)
+- Senior Software Engineer since July 2018
 
-### Others (Sykes, HP, Dell, & StarTek)
+# RareJob Phils
 
-Technical Support Representative/Professional
+- Senior Developer from September 2012 to July 2018
+
+# Others (Sykes, HP, Dell, & StarTek)
+
+- Technical Support Representative/Professional

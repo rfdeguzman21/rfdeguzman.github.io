@@ -1,5 +1,5 @@
 
-## Tutor website
+# Tutor website
 
 > This project help tutors to manage their schedules, conduct their lessons,
 and receive important announcements and information
@@ -14,7 +14,7 @@ on the needs of the company
 
 
 
-## Inbox messaging and alerts for company's main website
+# Inbox messaging and alerts for company's main website
 
 > This project integrates nodejs to an existing website which enables support to
 communicate messages and alerts to tutors
@@ -30,7 +30,7 @@ Bower, REST API, Vagrant, Gulp
 
 
 
-## Chatter and ChatterAdmin
+# Chatter and ChatterAdmin
 
 > This project manages chatter's account, schedules, and timecard entries. Also handles file
 management using AmazonS3
@@ -61,7 +61,7 @@ management using AmazonS3
 
 
 
-## Chatpage
+# Chatpage
 
 > This project allows chatters to chat with their students on IOS app
 
@@ -79,7 +79,7 @@ management using AmazonS3
 
 
 
-## Password Change Schedule
+# Password Change Schedule
 
 > This component will force users to change their passwords in all Yii systems based on the set schedules  
 (every June 30 & December 30)
@@ -90,7 +90,7 @@ management using AmazonS3
 
 
 
-## Email Queuing
+# Email Queuing
 
 > This component will allow yii-systems to queue their emails and send them at a later time. Can also
   be used by other frameworks.
@@ -105,7 +105,7 @@ management using AmazonS3
 
 
 
-## Staff API
+# Staff API
 
 > This is used to sync staff tables from jp servers to ph servers. This is called via curl in staff cms system.
 
@@ -115,7 +115,7 @@ management using AmazonS3
 
 
 
-## Staff CMS
+# Staff CMS
 
 > CRUD management of staffs ie. team assignments, job positions/promotions, resignations.
 This module provides reset for forgotten passwords.
@@ -126,7 +126,7 @@ This module provides reset for forgotten passwords.
 
 
 
-## Biometrics
+# Biometrics
 
 > Calculates the number of hours an employee rendered on a given range.
 
@@ -145,7 +145,7 @@ and holidays
 
 
 
-## Jobsworth
+# Jobsworth
 
 > This system allows developers to plan and schedule their projects  
 (discontinued as of 2014, in favor of redmine)
@@ -159,7 +159,7 @@ and holidays
 
 
 
-## Web-based Overtime (WebOT)
+# Web-based Overtime (WebOT)
 
 > Online interface to allow users to apply for overtime requests
 
@@ -172,7 +172,7 @@ and holidays
 
 
 
-## Email CMS
+# Email CMS
 
 > This module provides crud management of email templates that is used by other systems
 
@@ -184,7 +184,7 @@ and holidays
 
 
 
-## Mass Email
+# Mass Email
 
 > This module allows the user to send/broadcast an email message to selected recipients
 
@@ -194,7 +194,7 @@ and holidays
 
 
 
-## Post CMS
+# Post CMS
 
 > CRUD management of posts/announcements in the "What's new" section of the company's website
 
@@ -206,7 +206,7 @@ and holidays
 
 
 
-## Deletion/Cleanup of RegistrationLogs
+# Deletion/Cleanup of RegistrationLogs
 
 > This module is run via cron which deletes all logs, leaving only a month's worth of data in reference to the run/execution date
 

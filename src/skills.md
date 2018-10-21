@@ -1,32 +1,32 @@
 
-### Programming Languages
+# Programming Languages
 
-Python
+## Python
 
 - Flask
 - Django
 - Celery
 
-PHP
+## PHP
 
 - Yii
 - Laravel
 - Codeception
 - CakePHP
 
-Golang (proof of concept, no professional experience yet)
-
+## Golang 
+- *proof of concept only, no professional experience yet*
 - scripting
 - rest api server
 
-CSS
+## CSS
 
 - Twitter Bootstrap 3.0
 - Sass
 - SCSS
 
 
-Javascript
+## Javascript
 
 - NodeJs
 - ExpressJs
@@ -34,7 +34,7 @@ Javascript
 - JQuery
 
 
-### Methodologies
+# Methodologies
 - Test Driven Design
 - Behavioral Driven Design
 - SOLID principle
@@ -42,26 +42,26 @@ Javascript
 - PHP Design Patterns
 
 
-### Testing Frameworks
+# Testing Frameworks
 
-PHP
+## PHP
 
 - Codeception
 - PhpUnit
 - phantomjs
 - Selenium
 
-Python
+## Python
 
 - pytest
 - unittest
 
-Javascript
+## Javascript
 
 - mocha
 
 
-### Operating Systems
+# Operating Systems
 - Linux Mint
 - Ubuntu
 - ArchLinux
@@ -69,68 +69,70 @@ Javascript
 - CentOS
 
 
-### Databases
-- MySQL 5  
-- SQLite  
-- MongoDB  
+# Databases
+- MySQL 5
+- SQLite
+- MongoDB
 - Redis
+- ElasticSearch
 
 
-### Tools
+# Tools
 
-MySQL Admin UI's
+## MySQL Admin UI's
 
-- MySQL Workbench  
-- phpMyAdmin  
+- MySQL Workbench
+- phpMyAdmin
 - Adminer
 - ToadForMySQL
 
-Javascript task runners
+## Javascript task runners
 
-- GruntJS  
+- GruntJS
 - Gulp
 
-Automated Deployers
+## Automated Deployers
 
 - Jenkins
 
-Version control systems
+## Version control systems
 
-- Git  
-- Github  
+- Git
+- Github
 - BitBucket
 
-PHP IDE's
+## PHP IDE's
 
-- CodeLobster  
-- Netbeans  
+- CodeLobster
+- Netbeans
 - PhpStorm
+- VSCode
 - PyCharm
 
 
-MySQL Admin
+## MySQL Admin
 
-- MySQL Workbench  
-- phpMyAdmin  
+- MySQL Workbench
+- phpMyAdmin
 - Adminer
 
-Package managers
+## Package managers
 
 - composer
 - npm
 - bower
 
-Provisioning environments
+## Provisioning environments
 
-- Vagrant  
+- Vagrant
 - Virtualbox
 
 
-Cloud services
+## Cloud services
 
 - AmazonS3
 
-Others
+## Others
 
 - REST API
 - Crontab
