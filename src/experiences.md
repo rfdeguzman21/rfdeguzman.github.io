@@ -1,5 +1,5 @@
 
-### Senior Software Engineer (July 2018 to present)
+### Senior Software Engineer (since July 2018)
 
 ### Senior Developer in RareJob Phils (September 2012 to July 2018)
 
