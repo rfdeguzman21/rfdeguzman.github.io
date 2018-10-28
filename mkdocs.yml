@@ -17,8 +17,9 @@ extra_css:
 pages:
     - Home: index.md
     - Experience: experiences.md
-    - Skills: skills.md
     - Projects: projects.md
+    - Certificates: certificates.md
+    - Skills: skills.md
     - Education: education.md
     - Download resume: downloads/robindeguzman_resume.docx
 

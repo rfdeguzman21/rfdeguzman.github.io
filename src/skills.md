@@ -1,40 +1,25 @@
 
-# Programming Languages
+# Skills
 
-## Python
+## Programming Languages
 
-- Flask
-- Django
-- Celery
-
-## PHP
-
-- Yii
-- Laravel
-- Codeception
-- CakePHP
-
-## Golang 
-- *proof of concept only, no professional experience yet*
-- scripting
-- rest api server
-
-## CSS
-
-- Twitter Bootstrap 3.0
-- Sass
-- SCSS
-
-
-## Javascript
-
+- Python Flask micro framework
+- Python Django framework
+- Python Celery
+- PHP Yii framework
+- PHP Laravel framework
+- PHP Codeception framework
+- PHP CakePHP framework
+- GoLang scripting - *proof of concept only, no professional experience yet*
+- GoLang REST api server - *proof of concept only, no professional experience yet*
+- CSS Twitter Bootstrap 3.0
+- CSS Sass / Scss
 - NodeJs
 - ExpressJs
 - AngularJs 1.x
 - JQuery
 
-
-# Methodologies
+## Methodologies
 - Test Driven Design
 - Behavioral Driven Design
 - SOLID principle
@@ -42,26 +27,15 @@
 - PHP Design Patterns
 
 
-# Testing Frameworks
+## Testing Frameworks
 
-## PHP
+- PHP Codeception
+- PhpUnit using phantomjs
+- Python pytest
+- Python unittest
+- MochaJS
 
-- Codeception
-- PhpUnit
-- phantomjs
-- Selenium
-
-## Python
-
-- pytest
-- unittest
-
-## Javascript
-
-- mocha
-
-
-# Operating Systems
+## Operating Systems
 - Linux Mint
 - Ubuntu
 - ArchLinux
@@ -69,7 +43,7 @@
 - CentOS
 
 
-# Databases
+## Databases
 - MySQL 5
 - SQLite
 - MongoDB
@@ -77,66 +51,35 @@
 - ElasticSearch
 
 
-# Tools
-
-## MySQL Admin UI's
-
-- MySQL Workbench
-- phpMyAdmin
-- Adminer
-- ToadForMySQL
-
 ## Javascript task runners
-
 - GruntJS
 - Gulp
 
-## Automated Deployers
-
+## Deployers
 - Jenkins
+- Capistrano
 
 ## Version control systems
-
 - Git
 - Github
 - BitBucket
 
-## PHP IDE's
-
-- CodeLobster
-- Netbeans
-- PhpStorm
-- VSCode
-- PyCharm
-
-
 ## MySQL Admin
-
 - MySQL Workbench
 - phpMyAdmin
 - Adminer
 
 ## Package managers
-
 - composer
 - npm
 - bower
+- pip, virtualenv, anaconda
 
-## Provisioning environments
-
+## Environments
 - Vagrant
 - Virtualbox
-
+- Docker
 
 ## Cloud services
-
 - AmazonS3
 
-## Others
-
-- REST API
-- Crontab
-- Webmin
-- BeyondCompare
-- SublimeText
-- Notepad++
