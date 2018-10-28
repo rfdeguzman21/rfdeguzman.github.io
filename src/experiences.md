@@ -2,7 +2,8 @@
 # Experience
 
 ## Deltek
-Senior Software Engineer since July 2018
+
+**Senior Software Engineer since July 2018**
 
 1. Performs moderately complex product development, system analysis, and programming activities which may require some research. Performs implementation and maintenance of single product modules/sub-systems or on lower level issues of multiple products. Prepares technical documentation of product sub-systems Conducts the unit testing and integration testing for functionality and limits.
 - Performs moderately complex bug verification, release testing and beta support for assigned products. Researches problems discovered by QA or product support and develops solutions to the problems.
@@ -11,7 +12,7 @@ Senior Software Engineer since July 2018
 
 ## RareJob Phils
 
-Senior Developer from September 2012 to July 2018
+**Senior Developer from September 2012 to July 2018**
 
 1. Responsible in building applications from conceptualizing to completion
 - Collaborates with Project Manager, Clients, and Designers to ensure the adherence of the output to the predetermined resources
@@ -19,7 +20,7 @@ Senior Developer from September 2012 to July 2018
 
 ## Others (Sykes, HP, Dell, & StarTek)
 
-Technical Support Representative/Professional
+**Technical Support Representative/Professional**
 
 1. Inbound calls
 - Provide tech support for client's customers

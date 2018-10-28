@@ -9,7 +9,7 @@ Address: 1571 Triangle Bldg. Dona Soledad Ave., Betterliving Subdivision, Bicuta
 
 Telephone: 776-0486
 
-Website: https://aics.edu.ph
+Website: <a href='https://aics.edu.ph' target='_blank'>https://aics.edu.ph</a>
 
 
 ## Genetic Computer Institute  
@@ -27,7 +27,7 @@ Address: BF Resort Drive, BF Resort Village, Las Pinas City 1747
 
 Telephone: 875-4553
 
-Website: http://www.ess.edu.ph/
+Website: <a href='http://www.ess.edu.ph/' target='_blank'>http://www.ess.edu.ph/</a>
 
 
 ## Holy Child Catholic School
