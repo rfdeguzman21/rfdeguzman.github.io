@@ -1,4 +1,20 @@
+#!/bin/bash
 
+base=$(dirname $0)
+footnote=$base/resume.footnote.md
 
-cd C:/Users/Administrator/Desktop/rfdeguzman21.github.io/src
-pandoc -s -o downloads/robindeguzman_resume.docx index.md experiences.md projects.md certificates.md skills.md education.md ../resume.header.md
+# Create the footnote
+echo '' > $footnote
+echo '> ----------------  ' >> $footnote
+echo "> Generated using pandoc $(pandoc --version | grep pandoc.exe | awk '{print $2}')  " >> $footnote
+echo "> Last update: $(date '+%B %d, %Y')  " >> $footnote
+
+# Create the docx
+pandoc -s -o $base/src/downloads/robindeguzman_resume.docx \
+  $base/src/index.md \
+  $base/src/experiences.md \
+  $base/src/projects.md \
+  $base/src/certificates.md \
+  $base/src/skills.md \
+  $base/src/education.md \
+  $footnote
