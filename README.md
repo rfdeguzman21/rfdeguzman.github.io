@@ -8,12 +8,16 @@ conda install pandoc
 ```
 
 # Start dev server
-source activate githubresume
+```
+conda activate githubresume
 mkdocs serve
+```
 
 # Deploy changes to github
-source env/Scripts/activate
+```
+conda activate githubresume
 mkdocs gh-deploy
+```
 
 # Convert to resume
 ```
