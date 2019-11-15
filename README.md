@@ -17,6 +17,10 @@ virtualenv 16.7.2
 or run command `sh deploy.sh`
 
 
+# Build static html files w/o pushing to Github
+1. mkdocs build
+
+
 # Setup
 1. git clone git@github.com:rfdeguzman21/rfdeguzman21.github.io.git
 2. git checkout develop `master branch contains html files`

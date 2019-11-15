@@ -2,23 +2,23 @@
 
 ## LinkedIn Learning
 
-- Advanced Django Web Development 2016
-- Advanced Express
-- Advanced Node Js
-- Advanced Php Debugging Techniques
-- Advanced Python
-- Building Apis In Php Using The Slim Micro Framework
-- Design The Web Adding Dynamic Qr Codes
-- Designing Restful Apis
-- Extending Laravel With First Party Packages
-- Learning Django
-- Learning Symfony 3
-- Node Js Essential Training 3
-- Node Js Microservices
-- Node Js Security
-- Pandas Essential Training
-- Php Design Patterns
-- Php Testing Legacy Applications
-- Python Advanced Design Patterns
-- Typescript Essential Training
-- Working Remotely 2015
+- Advanced Django Web Development (Oct 2018)
+- Advanced Express (Oct 2019)
+- Advanced Node Js (Oct 2019)
+- Advanced Php Debugging Techniques (Jul 2018)
+- Advanced Python (Oct 2018)
+- Building Apis In Php Using The Slim Micro Framework (Mar 2019)
+- Design The Web Adding Dynamic Qr Codes (Nov 2018)
+- Designing Restful Apis (Oct 2018)
+- Extending Laravel With First Party Packages (Nov 2018)
+- Learning Django (Oct 2018)
+- Learning Symfony 3 (Nov 2018)
+- Node Js Essential Training 3 (Oct 2019)
+- Node Js Microservices (Oct 2019)
+- Node Js Security (Nov 2019)
+- Pandas Essential Training (Oct 2018)
+- Php Design Patterns (Oct 2018)
+- Php Testing Legacy Applications (Nov 2018)
+- Python Advanced Design Patterns (Nov 2018)
+- Typescript Essential Training (Dec 2018)
+- Working Remotely (Oct 2018)
