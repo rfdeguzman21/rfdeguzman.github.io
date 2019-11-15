@@ -21,7 +21,7 @@ pages:
     - Certificates: certificates.md
     - Skills: skills.md
     - Education: education.md
-    - Download resume: downloads/robindeguzman_resume.docx
+    - Download resume: downloads/RobinDeGuzmanCv.docx
 
 dev_addr: '0.0.0.0:8000'
 

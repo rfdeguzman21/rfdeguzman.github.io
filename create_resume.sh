@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 base=$(dirname $0)
 footnote=$base/resume.footnote.md
@@ -10,7 +10,7 @@ echo "> Generated using pandoc $(pandoc --version | grep pandoc.exe | awk '{prin
 echo "> Last update: $(date '+%B %d, %Y')  " >> $footnote
 
 # Create the docx
-pandoc -s -o $base/src/downloads/robindeguzman_resume.docx \
+pandoc -s -o $base/src/downloads/RobinDeGuzmanCv.docx \
   $base/src/index.md \
   $base/src/experiences.md \
   $base/src/projects.md \

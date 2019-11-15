@@ -1,12 +1,24 @@
-
 # Certificates
 
 ## LinkedIn Learning
 
-- Advanced Django: Web Development / Oct 2018
-- Advanced Python / Oct 2018
-- Designing RESTful APIs / Oct 2018
-- Learning Django / Oct 2018
-- Working Remotely / Oct 2018
-- Pandas Essential Training / Oct 2018
-- Advanced PHP: Debugging Techniques / Oct 2018
+- Advanced Django Web Development 2016
+- Advanced Express
+- Advanced Node Js
+- Advanced Php Debugging Techniques
+- Advanced Python
+- Building Apis In Php Using The Slim Micro Framework
+- Design The Web Adding Dynamic Qr Codes
+- Designing Restful Apis
+- Extending Laravel With First Party Packages
+- Learning Django
+- Learning Symfony 3
+- Node Js Essential Training 3
+- Node Js Microservices
+- Node Js Security
+- Pandas Essential Training
+- Php Design Patterns
+- Php Testing Legacy Applications
+- Python Advanced Design Patterns
+- Typescript Essential Training
+- Working Remotely 2015

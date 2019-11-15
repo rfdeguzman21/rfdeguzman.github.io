@@ -1,30 +1,25 @@
-# Anaconda
-```
-conda create -n githubresume python=2.7.15
-conda activate githubresume
-conda deactivate githubresume
+# Versions
+python 3.7.3
+pip 19.3.1
+pandoc 2.7.3
+virtualenv 16.7.2
 
-conda install pandoc
-```
 
-# Start dev server
-```
-conda activate githubresume
-mkdocs serve
-```
+# Run server
+1. mkdocs serve
 
-# Deploy changes to github
-```
-conda activate githubresume
-mkdocs gh-deploy
-```
 
-# Convert to resume
-```
-pandoc -s -o src/downloads/robindeguzman_resume.docx \
-  src/index.md src/experiences.md src/skills.md src/projects.md src/education.md
+# Deploy to github
+1. python update_certificate_md.py
+2. sh create_resume.sh
+3. mkdocs gh-deploy
 
-# or use
-bash create_resume.sh
-```
+or run command `sh deploy.sh`
 
+
+# Setup
+1. git clone git@github.com:rfdeguzman21/rfdeguzman21.github.io.git
+2. git checkout develop `master branch contains html files`
+3. virtual env
+4. source bin/Scripts/activate
+5. pip install requirements.txt
