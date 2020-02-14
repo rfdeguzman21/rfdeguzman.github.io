@@ -2,6 +2,7 @@ site_name: Robin F. De Guzman
 
 theme: 
     name: material
+    custom_dir: override_theme
 
 copyright: 'Robin F. De Guzman | rfdeguzman21@gmail.com | (+63) 916 593 3905'
 
@@ -14,7 +15,7 @@ site_dir: docs
 extra_css:
     - css/main.css
 
-pages:
+nav:
     - Home: index.md
     - Experience: experiences.md
     - Projects: projects.md
@@ -27,7 +28,7 @@ dev_addr: '0.0.0.0:8000'
 
 remote_branch: master
 
-copyright: 'Copyright &copy; 2018 - 2019 Robin F. De Guzman'
+copyright: 'Copyright &copy; 2020 - 2021 Robin F. De Guzman'
 
 google_analytics:
     - 'UA-115313253-1'

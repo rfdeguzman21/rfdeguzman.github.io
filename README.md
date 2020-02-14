@@ -10,9 +10,10 @@ virtualenv 16.7.2
 
 
 # Deploy to github
-1. python update_certificate_md.py
-2. sh create_resume.sh
-3. mkdocs gh-deploy
+1. source env/Scripts/activate
+2. python update_certificate_md.py
+3. sh create_resume.sh
+4. mkdocs gh-deploy
 
 or run command `sh deploy.sh`
 
@@ -25,5 +26,5 @@ or run command `sh deploy.sh`
 1. git clone git@github.com:rfdeguzman21/rfdeguzman21.github.io.git
 2. git checkout develop `master branch contains html files`
 3. virtual env
-4. source bin/Scripts/activate
+4. source env/Scripts/activate
 5. pip install requirements.txt
