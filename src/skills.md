@@ -1,5 +1,6 @@
 
 # Skills
+[Download Resume](downloads/RobinDeGuzmanCv.docx)
 
 ## Programming Languages
 
@@ -10,12 +11,11 @@
 - PHP Laravel framework
 - PHP Codeception framework
 - PHP CakePHP framework
-- GoLang scripting - *proof of concept only, no professional experience yet*
-- GoLang REST api server - *proof of concept only, no professional experience yet*
-- CSS Twitter Bootstrap 3.0
+- CSS Bootstrap 3.0
 - CSS Sass / Scss
 - NodeJs
 - ExpressJs
+- ReactJS
 - AngularJs 1.x
 - JQuery
 
@@ -30,10 +30,10 @@
 ## Testing Frameworks
 
 - PHP Codeception
-- PhpUnit using phantomjs
+- PhpUnit
 - Python pytest
 - Python unittest
-- MochaJS
+
 
 ## Operating Systems
 - Linux Mint
@@ -66,6 +66,7 @@
 
 ## MySQL Admin
 - MySQL Workbench
+- DBeaver
 - phpMyAdmin
 - Adminer
 
@@ -73,7 +74,7 @@
 - composer
 - npm
 - bower
-- pip, virtualenv, anaconda
+- pip, virtualenv, venv, anaconda
 
 ## Environments
 - Vagrant
@@ -82,4 +83,3 @@
 
 ## Cloud services
 - AmazonS3
-

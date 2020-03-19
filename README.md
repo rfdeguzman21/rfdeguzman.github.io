@@ -1,8 +1,9 @@
 # Versions
-python 3.7.3
-pip 19.3.1
-pandoc 2.7.3
+python 3.6.9, 3.7.3
+pip 9.0.1, 19.3.1
+pandoc 1.19.2.4, 2.7.3
 virtualenv 16.7.2
+venv ???
 
 
 # Run server
@@ -10,10 +11,11 @@ virtualenv 16.7.2
 
 
 # Deploy to github
-1. source env/Scripts/activate
+1. source env/bin/activate
 2. python update_certificate_md.py
 3. sh create_resume.sh
 4. mkdocs gh-deploy
+5. deactivate
 
 or run command `sh deploy.sh`
 
@@ -25,6 +27,7 @@ or run command `sh deploy.sh`
 # Setup
 1. git clone git@github.com:rfdeguzman21/rfdeguzman21.github.io.git
 2. git checkout develop `master branch contains html files`
-3. virtual env
-4. source env/Scripts/activate
+3. python3 -m venv env
+4. source env/bin/activate
 5. pip install requirements.txt
+6. when done, deactivate

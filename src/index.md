@@ -1,5 +1,6 @@
 
 # Robin F. De Guzman
+[Download Resume](downloads/RobinDeGuzmanCv.docx)
 
 ## About me
 

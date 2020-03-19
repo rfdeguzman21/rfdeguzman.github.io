@@ -1,5 +1,6 @@
 
 # Education
+[Download Resume](downloads/RobinDeGuzmanCv.docx)
 
 ## Asian Institute of Computer Studies 
  

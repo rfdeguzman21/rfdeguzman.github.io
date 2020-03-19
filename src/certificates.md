@@ -1,7 +1,10 @@
 # Certificates
 
+[Download Resume](downloads/RobinDeGuzmanCv.docx)
+
 ## LinkedIn Learning
 
+- Node Js Securing Restful Apis (Feb 2020)
 - React Creating And Hosting A Full Stack Site (Feb 2020)
 - React Js Essential Training 3 (Feb 2020)
 - Node Js Security (Nov 2019)

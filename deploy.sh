@@ -1,11 +1,11 @@
-#!/bin/sh
+#!/bin/bash
 
 echo 'Starting...'
 echo
 
 echo 'Update linkedIn certificates page'
 echo
-python update_certificate_md.py
+python3 update_certificate_md.py
 
 echo 'Create src/downloads/RobinDeGuzmanCv.docx'
 echo
@@ -13,7 +13,7 @@ sh create_resume.sh
 
 echo 'Deploying to github'
 echo
-mkdocs gh-deploy
+env/bin/mkdocs gh-deploy
 
-echo 'finished'
+echo 'Finished deploying to github pages.'
 echo

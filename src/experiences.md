@@ -1,5 +1,6 @@
 
 # Experience
+[Download Resume](downloads/RobinDeGuzmanCv.docx)
 
 ## Deltek
 

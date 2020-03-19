@@ -6,7 +6,7 @@ footnote=$base/resume.footnote.md
 # Create the footnote
 echo '' > $footnote
 echo '> ----------------  ' >> $footnote
-echo "> Generated using pandoc $(pandoc --version | grep pandoc.exe | awk '{print $2}')  " >> $footnote
+echo "> Generated using pandoc $(pandoc --version | grep -m 1 pandoc | awk '{print $2}')  " >> $footnote
 echo "> Last update: $(date '+%B %d, %Y')  " >> $footnote
 
 # Create the docx

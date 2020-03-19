@@ -2,13 +2,14 @@ import os, re
 from datetime import datetime
 from pathlib import Path
 
-LINKEDIN_PATH='C:\\Users\\RobindeGuzman\\Documents\\LinkedInCertificates'
-CERTIFICATES_MD_PATH='src\\certificates.md'
+LINKEDIN_PATH='/home/user/Documents/LinkedInCertificates'
+CERTIFICATES_MD_PATH='./src/certificates.md'
 
 def update_certificates(path):
 	os.remove(CERTIFICATES_MD_PATH);
 	with open(CERTIFICATES_MD_PATH,'a') as outfile:
 		outfile.write("# Certificates\n\n")
+		outfile.write("[Download Resume](downloads/RobinDeGuzmanCv.docx)\n\n")
 		outfile.write("## LinkedIn Learning\n\n")
 		for cert in get_certifications(path):
 			outfile.write("- {}\n".format(cert))

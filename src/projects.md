@@ -1,5 +1,6 @@
 
 # Projects
+[Download Resume](downloads/RobinDeGuzmanCv.docx)
 
 ## Tutor website
 

@@ -16,13 +16,13 @@ extra_css:
     - css/main.css
 
 nav:
-    - Home: index.md
-    - Experience: experiences.md
-    - Projects: projects.md
-    - Certificates: certificates.md
-    - Skills: skills.md
-    - Education: education.md
-    - Download resume: downloads/RobinDeGuzmanCv.docx
+  - Home: index.md
+  - Experience: experiences.md
+  - Projects: projects.md
+  - Certificates: certificates.md
+  - Skills: skills.md
+  - Education: education.md
+  - Download resume: downloads/RobinDeGuzmanCv.docx
 
 dev_addr: '0.0.0.0:8000'
 
