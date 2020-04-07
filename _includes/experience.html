@@ -1,0 +1,27 @@
+<section id="experience" class="projects-section bg-light">
+	<div class="container">
+		<h2 class="text-black text-center mb-4">Experience</h2>
+		{% for item in site.data.experience %}
+		<div class="row justify-content-center no-gutters mb-5 mb-lg-0">
+			<div class="col-lg-10">
+				<div class="bg-black text-center h-100 project">
+					<div class="d-flex h-100">
+						<div class="project-text w-100 my-auto text-center text-lg-left">
+							<h4 class="text-white">{{ item.company}}</h4>
+							<p class="mb-0 text-white-50">{{ item.title }}</p>
+							<hr class="d-none d-lg-block mb-0 ml-0">
+							<br>
+							<ol>
+							{% for duty in item.duties %}
+								<li class="mb-0 text-white-50">{{ duty }}</li>
+							{% endfor %}
+							</ol>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<br>
+		{% endfor %}
+	</div>
+</section>

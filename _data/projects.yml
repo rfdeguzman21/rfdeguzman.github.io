@@ -1,0 +1,70 @@
+- app: Tutor website
+  company: RareJob Phils
+  role: Project Lead, Lead Developer, Code reviewer
+  stack: Yii, Codeception
+  tasks:
+    - Continuous development of new features and/or change requests depending on the needs of the company
+    - Fix bugs encountered/reported by staffs, tutors, or students
+
+- app: Enterprise Project
+  company: RareJob Phils
+  role: Project Lead, Lead Developer
+  stack: Laravel, Docker, Codeception
+  tasks:
+    - Developed the website that will be used by tutors
+    - Created the docker environments for development
+    - Integration of JP Rest Api into the system
+    - Provided the structure and coding standards (SOLID, Domain Driven)
+
+- app: Tutor Inbox Project
+  company: RareJob Phils
+  role: Lead Developer
+  stack: Yii, Flask REST Api, NodeJS, AngularJS, MySQL, MongoDB, Redis, Vagrant, Gulp
+  tasks:
+    - Integrated messaging and alerts system in Tutor website using new tech stack such as nodejs, flask, REST api using Flask, mongodb, angularjs, redis
+    - Created the development servers using vagrant
+    - Developed the standalone angular components to render/integrate the messaging app in Tutor website
+    - Developed the admin site to manage the messages as well as provide a page where tutor support department can interact tutors via chat
+
+- app: Chatty Project
+  company: RareJob Phils
+  role: Lead Developer
+  stack: Yii, CakePHP, Vagrant, MySQL, AmazonS3, AngularJS, ExpressJs, GruntJS, Bower
+  tasks:
+    - Developed the chatter site which has the following functionalities (user account profile, scheduling, resource manuals, notifications from admins, attendance and time entries)
+    - Integrated the chatter site in Tutor website
+    - Developed the admin site which has the following functionalities (profile management, uploading of resource manuals in AmazonS3, sending of notifications to chatters, approval and/or modifications of submitted schedules, attendance reports, viewing of chat history, ticket management, email subscriptions and management (marketing tool))
+    - Took over the maintenance of the chatpage app that was developed by an outsourced developer (bug fix, updates, and improvements of backend system (CakePHP and NodeJS))
+
+- app: Biometrics
+  company: RareJob Phils
+  role: Lead Developer
+  stack: Yii, Xampp, MySQL
+  tasks:
+    - Developed a system that accepts a csv file containing employee's time entries for a specified cutoff
+    - Computes the rendered work in hours/minutes based on schedules, adjustments, overtime and holidays
+    - Export final computation to excel
+    - Management of schedules, adjustments, overtime, and holidays
+    - Tracks user actions for audit trail
+
+- app: Backend System
+  company: RareJob Phils
+  role: Developer
+  tasks:
+    - Developed a Yii component that force users to change their passwords based on scheduled dates
+    - Developed a backend system that allows other systems to queue emails and send them at a later time. Admins can also resend failed emails.
+    - Developed a service to sync staff tables from JP servers to PH servers.
+    - Developed a backend system that manages staff's team assignments, job positions/promotions, resignations. This system provides reset for forgotten passwords.
+    - Developed an Email CMS that manages email templates used by other systems. Teams can update their email templates instead of requesting developers to update the template.
+    - Developed a system that enables a user to send/broadcast an email message to selected recipients
+    - Developed a system that manages the content for the "What's new" section of Tutor website
+
+- app: Others
+  company: RareJob Phils
+  role: Developer
+  tasks:
+    - Pioneered the use of Codeception framework for unit and functional testing
+    - Trained developers and QA on how to use Codeception
+    - Trained developers on using Dependency Injection and Mocking
+    - Helped in the development of the jenkins deployment pipeline (created a job to run tests, created bash and python scripts to determine which branch to use when deploying to staging servers)
+    - Created proof of concept in integrating Zendesk support in Tutor website
