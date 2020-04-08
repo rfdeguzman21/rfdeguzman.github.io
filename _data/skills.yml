@@ -31,6 +31,8 @@
   list:
     - mkdocs
     - jekyll
+    - readthedocs
+    - sphinx
 - category: Operating Systems
   list:
     - Linux Mint
