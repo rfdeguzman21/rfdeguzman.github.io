@@ -9,18 +9,15 @@
 			<div class="col-lg-10">
 				<div class="bg-black text-center h-100 project">
 					<div class="d-flex h-100">
-						<div class="project-text w-100 my-auto text-center text-lg-left">
+						<div class="project-text w-100 my-auto text-left">
 							<h4 class="text-white">{{ item.app}}</h4>
 							<p class="mb-0 text-white-50">{{ item.company }}</p>
-							<hr class="d-none d-lg-block mb-0 ml-0">
-							<br>
-							<p class="text-white-50">Role: {{ item.role }}</p>
-							<p class="text-white-50">Tasks</p>
-							<ol>
-								{% for duty in item.tasks %}
-								<li class="mb-0 text-white-50">{{ duty }}</li>
-								{% endfor %}
-							</ol>
+							<hr class="d-none d-lg-block mb-4 ml-0">
+							<p class="mb-0 text-white-50">Role: {{ item.role }}</p>
+							<p class="mb-0 text-white-50">Tasks:</p>
+							{% for duty in item.tasks %}
+								<p class="mb-0 text-white-50"><i class="fas fa-angle-right"></i> {{ duty }}</p>
+							{% endfor %}
 						</div>
 					</div>
 				</div>
