@@ -7,7 +7,8 @@ venv ???
 
 
 # Run server
-1. mkdocs serve
+1. source env/bin/activate or source env/Scripts/activate
+2. mkdocs serve
 
 
 # Deploy to github
@@ -17,7 +18,10 @@ venv ???
 4. mkdocs gh-deploy
 5. deactivate
 
-or run command `sh deploy.sh` (after activating venv)
+or 
+
+1. source env/bin/activate or source env/Scripts/activate
+2. sh deploy.sh
 
 
 # Build static html files w/o pushing to Github

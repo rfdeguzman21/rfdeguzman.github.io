@@ -1,7 +1,7 @@
 site_name: Robin F. De Guzman
 
 theme: 
-    name: material
+    name: slate
     custom_dir: override_theme
 
 copyright: 'Robin F. De Guzman | rfdeguzman21@gmail.com | (+63) 916 593 3905'
