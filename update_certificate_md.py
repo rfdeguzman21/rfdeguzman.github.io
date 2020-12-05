@@ -2,7 +2,7 @@ import os, re
 from datetime import datetime
 from pathlib import Path
 
-LINKEDIN_PATH='/home/user/Documents/LinkedInCertificates'
+LINKEDIN_PATH='C:/Users/RobindeGuzman/Documents/LinkedInCertificates'
 CERTIFICATES_MD_PATH='./src/certificates.md'
 
 def update_certificates(path):

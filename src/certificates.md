@@ -4,6 +4,8 @@
 
 ## LinkedIn Learning
 
+- Building RESTful APIs with Flask (Dec 2020)
+- Python Decorators (Dec 2020)
 - Node Js Securing Restful Apis (Feb 2020)
 - React Creating And Hosting A Full Stack Site (Feb 2020)
 - React Js Essential Training 3 (Feb 2020)

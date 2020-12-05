@@ -27,6 +27,6 @@
 - Languages Known: English & Filipino
 - Contact information
     - rfdeguzman21@gmail.com
-    - (+63) 9165933905
+    - (+63) 916 593 3905
     - <https://www.linkedin.com/in/robindeguzman8>
 
